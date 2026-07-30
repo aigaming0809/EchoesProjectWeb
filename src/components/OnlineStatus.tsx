@@ -32,7 +32,6 @@ const PAGE_ICON: Record<string, string> = {
   "/download": "📥",
   "/patch-notes": "📋",
   "/announcements": "📢",
-  "/assets": "🖼️",
 };
 
 function pageIcon(p: string) {
