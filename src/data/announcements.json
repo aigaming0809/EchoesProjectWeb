@@ -1,0 +1,163 @@
+{
+  "announcements": [
+    {
+      "id": "ann-010",
+      "title": "Download Langsung Tanpa Emulator — APK & EXE Tersedia",
+      "date": "2026-07-28",
+      "category": "release",
+      "pinned": true,
+      "author": "Eternal Echoes",
+      "accent": "#9dff3c",
+      "icon": "🚀",
+      "excerpt": "Tidak perlu emulator lagi. Unduh APK untuk Android atau installer EXE untuk Windows, pasang, lalu langsung main.",
+      "body": "Kabar besar untuk semua duelist: Yu-Gi-Oh! Eternal Echoes kini tersedia sebagai build native.\n\nTidak ada lagi urusan emulator, file BIOS, atau format ISO. Cukup dua pilihan sederhana — APK berukuran 412 MB untuk Android 8.0 ke atas, atau installer EXE berukuran 586 MB untuk Windows 10/11 64-bit.\n\nSeluruh isi game tetap lengkap: 722 kartu asli, 25.131 resep fusion, 24 ritual summon, dan 26 stage campaign penuh dengan sistem Guardian Star serta Field Power Bonus.\n\nSetiap build dilengkapi checksum SHA-256 yang bisa kamu salin untuk memverifikasi keaslian file. Panduan pemasangan lima langkah dan referensi kontrol untuk masing-masing platform juga sudah tersedia di halaman Download.\n\nGame berjalan sepenuhnya offline. Koneksi internet hanya dibutuhkan saat mengunduh dan saat menyinkronkan statistik ke leaderboard."
+    },
+    {
+      "id": "ann-011",
+      "title": "Card Database: Sistem Efek Kartu & Harga Star Chip",
+      "date": "2026-07-28",
+      "category": "update",
+      "pinned": false,
+      "author": "Dev Team",
+      "accent": "#2dd4bf",
+      "icon": "⚡",
+      "excerpt": "Kartu kini dibedakan antara yang punya efek dan monster vanilla. Password dihapus, diganti fokus pada harga Star Chip.",
+      "body": "Card Database mendapat dua pembaruan penting.\n\nPertama, sistem efek kartu. Di Forbidden Memories, monster tidak memiliki efek sama sekali — semuanya vanilla beatstick yang hanya mengandalkan ATK/DEF, Guardian Star, dan Field Power Bonus. Efek hanya dimiliki empat jenis kartu: Magic, Trap, Equip, dan Ritual, totalnya 101 dari 722 kartu.\n\nKarena itu halaman detail kartu kini menampilkan label berbeda. Kartu ber-efek diberi badge EFEK KARTU dengan warna sesuai jenisnya, sementara monster diberi label DESKRIPSI dengan penanda TANPA EFEK. Ada juga filter ⚡ EFEK di Card Database untuk menyaring 101 kartu ber-efek saja.\n\nKedua, Password / Card Code dihapus dari tampilan detail maupun pencarian karena tidak relevan lagi. Sebagai gantinya, panel harga kini fokus penuh pada PRICE dalam Star Chip, lengkap dengan penanda khusus untuk kartu yang tidak bisa dibeli di Card Shop."
+    },
+    {
+      "id": "ann-009",
+      "title": "Situs Resmi Berganti Nama: Yu-Gi-Oh! Eternal Echoes",
+      "date": "2026-07-28",
+      "category": "release",
+      "pinned": true,
+      "author": "Eternal Echoes",
+      "accent": "#ffd447",
+      "icon": "✨",
+      "excerpt": "Mulai hari ini arsip ini resmi bernama Yu-Gi-Oh! Eternal Echoes — gema abadi dari petualangan lima milenium yang lalu.",
+      "body": "Kami dengan bangga mengumumkan identitas baru situs ini: Yu-Gi-Oh! Eternal Echoes.\n\nNama 'Eternal Echoes' terinspirasi dari inti cerita Forbidden Memories itu sendiri — gema jiwa Sang Pangeran yang bergaung melintasi lima milenium, dari istana Mesir Kuno sampai Domino City. Setiap kartu, setiap duel, dan setiap memori yang tersegel dalam Millennium Puzzle adalah gema yang tak pernah padam.\n\nYang berubah hanyalah nama dan identitas visual. Seluruh isi arsip tetap sama dan terus bertambah: 722 kartu asli, 25.131 resep fusion, 24 ritual summon, biografi 30 duelist beserta deck list, alur cerita sembilan babak, Fusion Lab, dan leaderboard.\n\nSitus ini tetap merupakan arsip penggemar non-komersial untuk Yu-Gi-Oh! Forbidden Memories (PlayStation, 1999). Terima kasih sudah menjadi bagian dari perjalanan ini, Pangeran."
+    },
+    {
+      "id": "ann-008",
+      "title": "Halaman Download Game Resmi Dibuka",
+      "date": "2026-07-27",
+      "category": "release",
+      "pinned": false,
+      "author": "Eternal Echoes",
+      "accent": "#00f0ff",
+      "icon": "📥",
+      "excerpt": "Panduan lengkap memasang emulator PlayStation di PC, Android, dan iOS kini tersedia — beserta spesifikasi minimum dan langkah instalasi.",
+      "body": "Kami resmi membuka halaman Download Game yang berisi panduan menyeluruh untuk memainkan Yu-Gi-Oh! Forbidden Memories di perangkat modern.\n\nHalaman ini mencakup tiga platform: PC (Windows/macOS/Linux), Android, dan iOS/iPadOS. Setiap platform dilengkapi rekomendasi emulator, spesifikasi minimum perangkat, dan langkah instalasi enam tahap yang mudah diikuti.\n\nPenting: kami TIDAK menyediakan file ROM atau ISO. Situs ini hanya memberikan panduan memasang emulator open-source yang legal. Kamu hanya boleh menjalankan backup dari disc PlayStation yang kamu miliki secara sah.\n\nTersedia juga daftar tools pendukung seperti chdman untuk kompresi file dan Memcard Rex untuk mengelola save game, serta FAQ yang menjawab pertanyaan paling umum."
+    },
+    {
+      "id": "ann-007",
+      "title": "Sistem Deck List 40 Kartu Kini Aktif",
+      "date": "2026-07-26",
+      "category": "feature",
+      "pinned": false,
+      "author": "Dev Team",
+      "accent": "#a855f7",
+      "icon": "🎴",
+      "excerpt": "Profil duelist kini menampilkan deck list lengkap 40 kartu dengan analisis otomatis: rata-rata ATK, tipe dominan, dan distribusi attribute.",
+      "body": "Fitur kartu andalan tunggal telah digantikan sistem deck list penuh. Setiap duelist kini memiliki 40 kartu sesuai aturan resmi Forbidden Memories.\n\nDeck list dilengkapi tab filter untuk Monster, Magic, Equip, Trap, dan Ritual, serta toggle tampilan Grid dan List. Kamu bisa mengurutkan berdasarkan ATK tertinggi, nama, atau nomor kartu.\n\nPanel Analisis Deck menghitung otomatis rata-rata ATK, ATK tertinggi, tipe monster dominan, distribusi attribute, dan field card yang dipakai. Kartu Ace juga dipilih otomatis dari kartu dengan ATK tertinggi di deck.\n\nSeluruh 14 deck demo telah diverifikasi tepat berjumlah 40 kartu dan tersimpan di PostgreSQL menggunakan kolom jsonb."
+    },
+    {
+      "id": "ann-006",
+      "title": "Artwork Kartu Kini Sepenuhnya Lokal",
+      "date": "2026-07-25",
+      "category": "update",
+      "pinned": false,
+      "author": "Dev Team",
+      "accent": "#9dff3c",
+      "icon": "🖼️",
+      "excerpt": "Semua sumber gambar eksternal dihapus. Kini kamu bisa memasang koleksi artwork sendiri di folder /public/image/arworks.",
+      "body": "Menanggapi masalah gambar yang tidak muncul akibat pemblokiran jaringan, kami menghapus seluruh ketergantungan pada CDN eksternal.\n\nSekarang gambar hanya dibaca dari folder /public/image/arworks di server kamu sendiri. Kartu yang belum memiliki artwork akan menampilkan placeholder informatif berisi nomor kartu, nama, tipe, ATK/DEF, dan nama file yang perlu kamu buat.\n\nSistem penamaan sangat fleksibel: gunakan ID kartu (001.png) atau nama kartu (dark-magician.png). Subfolder juga didukung hingga tiga level.\n\nFolder dipindai ulang otomatis — 2 detik di mode development dan 15 detik di production. Cukup letakkan file lalu refresh browser, tanpa perlu restart server. Pantau progresnya di halaman Asset Manager."
+    },
+    {
+      "id": "ann-005",
+      "title": "Perbaikan Kritis: Deploy Vercel Gagal",
+      "date": "2026-07-24",
+      "category": "fix",
+      "pinned": false,
+      "author": "Dev Team",
+      "accent": "#fb7185",
+      "icon": "🔧",
+      "excerpt": "Error 'DATABASE_URL is required' saat build di Vercel telah diperbaiki dengan lazy database initialization.",
+      "body": "Beberapa pengguna melaporkan kegagalan build saat deploy ke Vercel dengan pesan error 'Failed to collect page data for /api/health'.\n\nPenyebabnya adalah modul database melempar error di module scope. Saat Next.js melakukan build, setiap Route Handler diimpor untuk mengumpulkan data halaman — dan pada tahap itu environment variable belum tentu tersedia.\n\nPerbaikan menggunakan pola lazy initialization dengan Proxy: koneksi database baru dibuat saat query pertama dijalankan di runtime, bukan saat modul diimpor. Kini build selalu berhasil, dengan atau tanpa DATABASE_URL.\n\nSebagai bonus, situs kini punya mode demo otomatis. Kalau database belum terhubung, leaderboard tetap menampilkan data contoh sehingga tampilan tidak kosong."
+    },
+    {
+      "id": "ann-004",
+      "title": "Leaderboard Dirombak Total",
+      "date": "2026-07-25",
+      "category": "feature",
+      "pinned": false,
+      "author": "Eternal Echoes",
+      "accent": "#ffc857",
+      "icon": "🏆",
+      "excerpt": "Form pendaftaran rekor dihapus. Leaderboard kini fokus pada tiga metrik: Win Rate, Total Duel, dan Stage Selesai.",
+      "body": "Leaderboard mengalami perombakan besar untuk menampilkan informasi yang benar-benar berguna.\n\nTiga metrik utama kini menjadi fokus: Win Rate dengan indikator warna dinamis, Total Duel yang tercatat, dan Stage Selesai dari total 26 stage campaign.\n\nHalaman juga menampilkan ringkasan global berupa rata-rata win rate seluruh duelist, total duel jaringan, jumlah duelist terdaftar, dan berapa yang sudah menamatkan seluruh campaign.\n\nPodium tiga besar mendapat desain khusus dengan progress bar stage. Tabel utama mendukung sortir berdasarkan peringkat, win rate, total duel, atau stage, serta pencarian berdasarkan nama dan region."
+    },
+    {
+      "id": "ann-003",
+      "title": "Peta 26 Stage Campaign Ditambahkan",
+      "date": "2026-07-26",
+      "category": "feature",
+      "pinned": false,
+      "author": "Dev Team",
+      "accent": "#63f2ff",
+      "icon": "🗺️",
+      "excerpt": "Progres campaign kini divisualisasikan dalam peta 26 stage, dari Simon Muran sampai Nitemare.",
+      "body": "Setiap profil duelist kini menampilkan peta progres campaign lengkap berisi 26 stage resmi Forbidden Memories.\n\nStage yang sudah diselesaikan ditandai centang berwarna sesuai tema masing-masing lawan. Stage yang sedang dihadapi ditandai warna magenta dengan label 'SEDANG DIHADAPI'. Stage yang belum tercapai ditampilkan redup.\n\nUrutan stage mengikuti alur asli game: Prolog (Simon Muran, Heishin), Act I (tiga Villager, Priest Seto), Act II (Mage Soldier, Jono, Teana), Act III (lima wilayah dengan Mage dan High Mage), Act IV (Labyrinth Ruins), Act V (Heishin 2nd, Seto 3rd), dan Act VI (DarkNite, Nitemare)."
+    },
+    {
+      "id": "ann-002",
+      "title": "Fusion Lab: 25.131 Resep Siap Diuji",
+      "date": "2026-07-23",
+      "category": "feature",
+      "pinned": false,
+      "author": "Eternal Echoes",
+      "accent": "#2dd4bf",
+      "icon": "⚗️",
+      "excerpt": "Simulator fusion interaktif dengan seluruh resep asli dari struktur data game PlayStation.",
+      "body": "Fusion Lab memungkinkan kamu menguji kombinasi kartu persis seperti mekanika di PlayStation.\n\nPilih dua kartu material, jalankan fusion, dan lihat hasilnya lengkap dengan selisih ATK dibanding material terkuat. Kalau kombinasi tidak menghasilkan fusion, sistem akan memberi tahu bahwa di game asli kartu kedua tetap berada di field.\n\nSeluruh 25.131 resep diambil langsung dari struktur data game asli, jadi hasilnya akurat 100%. Halaman ini juga menampilkan 24 resep ritual summon lengkap dengan tiga material yang dibutuhkan."
+    },
+    {
+      "id": "ann-001",
+      "title": "Eternal Echoes Resmi Online",
+      "date": "2026-07-23",
+      "category": "release",
+      "pinned": false,
+      "author": "Eternal Echoes",
+      "accent": "#ffd447",
+      "icon": "🎉",
+      "excerpt": "Arsip digital Yu-Gi-Oh! Forbidden Memories resmi dibuka — 722 kartu, 30 duelist, dan 9 babak cerita.",
+      "body": "Selamat datang di Eternal Echoes, arsip digital tak resmi untuk Yu-Gi-Oh! Forbidden Memories (PlayStation, 1999).\n\nSeluruh data kartu diambil langsung dari struktur data game asli: 722 kartu lengkap dengan Guardian Star, attribute, level, ATK/DEF, deskripsi, dan password 8 digit.\n\nTersedia juga biografi 30 duelist beserta deck list dan strategi melawannya, alur cerita sembilan babak dari kudeta Heishin sampai duel terakhir melawan Nitemare, serta Fusion Lab untuk menguji lebih dari 25 ribu resep fusion.\n\nSitus ini dibangun dengan tema cyberpunk penuh animasi: kartu holografik dengan efek tilt 3D, grid bergerak, partikel neon, dan running text pengumuman. Selamat menjelajah, Pangeran."
+    }
+  ],
+  "categories": [
+    {
+      "id": "all",
+      "label": "SEMUA",
+      "accent": "#00f0ff"
+    },
+    {
+      "id": "release",
+      "label": "RILIS",
+      "accent": "#ffd447"
+    },
+    {
+      "id": "feature",
+      "label": "FITUR BARU",
+      "accent": "#a855f7"
+    },
+    {
+      "id": "update",
+      "label": "PEMBARUAN",
+      "accent": "#9dff3c"
+    },
+    {
+      "id": "fix",
+      "label": "PERBAIKAN",
+      "accent": "#fb7185"
+    }
+  ]
+}

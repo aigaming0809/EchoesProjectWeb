@@ -1,0 +1,309 @@
+{
+  "current": "v2.6.0",
+  "releases": [
+    {
+      "version": "v2.6.0",
+      "date": "2026-07-28",
+      "codename": "NATIVE BUILD",
+      "type": "major",
+      "accent": "#9dff3c",
+      "summary": "Download langsung APK & EXE tanpa emulator. Card database kini menampilkan sistem efek kartu dan harga Star Chip.",
+      "changes": [
+        {
+          "tag": "CHANGE",
+          "text": "Halaman Download dirombak: hanya Mobile (APK) dan PC (EXE), tanpa emulator."
+        },
+        {
+          "tag": "NEW",
+          "text": "Tombol unduh langsung dengan info ukuran file, arsitektur, dan checksum SHA-256."
+        },
+        {
+          "tag": "NEW",
+          "text": "Panduan kontrol terpisah untuk Mobile dan PC."
+        },
+        {
+          "tag": "NEW",
+          "text": "Sistem efek kartu — membedakan kartu ber-efek (Magic/Trap/Equip/Ritual) dari monster vanilla."
+        },
+        {
+          "tag": "NEW",
+          "text": "Filter ⚡ EFEK di Card Database untuk menampilkan 101 kartu ber-efek saja."
+        },
+        {
+          "tag": "REMOVE",
+          "text": "Password / Card Code dihapus dari detail kartu dan pencarian."
+        },
+        {
+          "tag": "CHANGE",
+          "text": "Panel harga kartu kini fokus pada Star Chip (PRICE) saja."
+        },
+        {
+          "tag": "CHANGE",
+          "text": "Menu navigasi RANK diganti menjadi LEADERBOARD."
+        }
+      ]
+    },
+    {
+      "version": "v2.5.0",
+      "date": "2026-07-28",
+      "codename": "ETERNAL ECHOES",
+      "type": "major",
+      "accent": "#ffd447",
+      "summary": "Situs resmi berganti nama menjadi Yu-Gi-Oh! Eternal Echoes. Seluruh identitas visual dan metadata diperbarui.",
+      "changes": [
+        {
+          "tag": "CHANGE",
+          "text": "Nama situs resmi menjadi Yu-Gi-Oh! Eternal Echoes."
+        },
+        {
+          "tag": "CHANGE",
+          "text": "Logo navigasi diperbarui menjadi ETERNAL / ECHOES.SYS."
+        },
+        {
+          "tag": "CHANGE",
+          "text": "Judul hero halaman utama kini menampilkan ETERNAL ECHOES."
+        },
+        {
+          "tag": "CHANGE",
+          "text": "Seluruh referensi 'Millennium Network' diganti 'Eternal Echoes'."
+        },
+        {
+          "tag": "NEW",
+          "text": "Title template otomatis: setiap halaman diakhiri '· Yu-Gi-Oh! Eternal Echoes'."
+        },
+        {
+          "tag": "CHANGE",
+          "text": "Footer dan metadata SEO disesuaikan dengan identitas baru."
+        }
+      ]
+    },
+    {
+      "version": "v2.4.0",
+      "date": "2026-07-27",
+      "codename": "MILLENNIUM ARCHIVE",
+      "type": "major",
+      "accent": "#ff2bd6",
+      "summary": "Rilis besar: halaman Download Game, Patch Note, dan Announcement resmi hadir. Sistem gambar kini 100% lokal.",
+      "changes": [
+        {
+          "tag": "NEW",
+          "text": "Halaman Download Game — panduan lengkap emulator untuk PC, Android, dan iOS."
+        },
+        {
+          "tag": "NEW",
+          "text": "Halaman Patch Note dengan riwayat versi lengkap dan filter kategori."
+        },
+        {
+          "tag": "NEW",
+          "text": "Halaman Announcement dengan sistem pin, kategori, dan indikator baru."
+        },
+        {
+          "tag": "NEW",
+          "text": "Tools & FAQ section pada halaman download."
+        },
+        {
+          "tag": "CHANGE",
+          "text": "Navigasi utama ditata ulang jadi 9 menu dengan kode segmen."
+        },
+        {
+          "tag": "CHANGE",
+          "text": "Footer diperbarui dengan tautan ke seluruh halaman baru."
+        }
+      ]
+    },
+    {
+      "version": "v2.3.0",
+      "date": "2026-07-26",
+      "codename": "DECK MASTER",
+      "type": "major",
+      "accent": "#a855f7",
+      "summary": "Kartu andalan diganti sistem deck list 40 kartu lengkap dengan analisis otomatis.",
+      "changes": [
+        {
+          "tag": "NEW",
+          "text": "Deck list 40 kartu pada profil duelist, dengan tab filter Monster/Magic/Equip/Trap/Ritual."
+        },
+        {
+          "tag": "NEW",
+          "text": "Toggle tampilan Grid ⇄ List dan sortir ATK/Nama/Nomor."
+        },
+        {
+          "tag": "NEW",
+          "text": "Panel Analisis Deck: rata-rata ATK, tipe dominan, distribusi attribute, field card."
+        },
+        {
+          "tag": "NEW",
+          "text": "Ace card dipilih otomatis dari kartu ATK tertinggi di deck."
+        },
+        {
+          "tag": "NEW",
+          "text": "Badge legalitas deck (40/40 KARTU · LEGAL)."
+        },
+        {
+          "tag": "CHANGE",
+          "text": "Kolom database favorite_card_id diganti kolom deck bertipe jsonb."
+        },
+        {
+          "tag": "CHANGE",
+          "text": "14 deck demo bertema dibuat, semuanya tepat 40 kartu."
+        },
+        {
+          "tag": "FIX",
+          "text": "Seeder diubah ke TypeScript agar mendukung kolom jsonb."
+        }
+      ]
+    },
+    {
+      "version": "v2.2.0",
+      "date": "2026-07-26",
+      "codename": "DUELIST DOSSIER",
+      "type": "minor",
+      "accent": "#00f0ff",
+      "summary": "Halaman profil duelist individual dengan progres campaign 26 stage.",
+      "changes": [
+        {
+          "tag": "NEW",
+          "text": "Halaman profil duelist /leaderboard/[handle]."
+        },
+        {
+          "tag": "NEW",
+          "text": "Peta progres 26 stage campaign dengan penanda stage aktif."
+        },
+        {
+          "tag": "NEW",
+          "text": "Perbandingan statistik pemain terhadap rata-rata global."
+        },
+        {
+          "tag": "NEW",
+          "text": "Navigasi rank sebelumnya / berikutnya di profil."
+        },
+        {
+          "tag": "NEW",
+          "text": "Endpoint API /api/leaderboard/[handle]."
+        },
+        {
+          "tag": "FIX",
+          "text": "Klik profil di leaderboard tidak lagi salah arah ke card database."
+        },
+        {
+          "tag": "FIX",
+          "text": "notFound() kini mengembalikan status 404 yang benar (sebelumnya 200)."
+        }
+      ]
+    },
+    {
+      "version": "v2.1.0",
+      "date": "2026-07-25",
+      "codename": "PURE LOCAL",
+      "type": "major",
+      "accent": "#9dff3c",
+      "summary": "Semua sumber gambar eksternal dihapus. Artwork kini sepenuhnya dari folder lokal.",
+      "changes": [
+        {
+          "tag": "CHANGE",
+          "text": "CDN eksternal dihapus total — gambar hanya dibaca dari /public/image/arworks."
+        },
+        {
+          "tag": "NEW",
+          "text": "Placeholder SVG informatif berisi nomor, nama, tipe, ATK/DEF, dan nama file yang dibutuhkan."
+        },
+        {
+          "tag": "NEW",
+          "text": "Auto-rescan folder gambar: 2 detik di dev, 15 detik di production."
+        },
+        {
+          "tag": "NEW",
+          "text": "Dukungan penamaan fleksibel: ID, password 8 digit, nama kartu, dan subfolder."
+        },
+        {
+          "tag": "CHANGE",
+          "text": "Leaderboard dirombak: form pendaftaran rekor dihapus."
+        },
+        {
+          "tag": "NEW",
+          "text": "Tiga metrik utama leaderboard: Win Rate, Total Duel, Stage Selesai."
+        }
+      ]
+    },
+    {
+      "version": "v2.0.0",
+      "date": "2026-07-24",
+      "codename": "ASSET MANAGER",
+      "type": "major",
+      "accent": "#ffc857",
+      "summary": "Sistem manajemen aset gambar kartu dan perbaikan deploy Vercel.",
+      "changes": [
+        {
+          "tag": "NEW",
+          "text": "Halaman Asset Manager /assets dengan progress bar dan status per kartu."
+        },
+        {
+          "tag": "NEW",
+          "text": "Tombol klik-untuk-copy nama file pada setiap kartu."
+        },
+        {
+          "tag": "NEW",
+          "text": "Deteksi otomatis file yang salah penamaan."
+        },
+        {
+          "tag": "FIX",
+          "text": "Error 'DATABASE_URL is required' saat build di Vercel."
+        },
+        {
+          "tag": "CHANGE",
+          "text": "Koneksi database jadi lazy initialization dengan Proxy."
+        },
+        {
+          "tag": "NEW",
+          "text": "Mode demo otomatis saat database belum terhubung."
+        },
+        {
+          "tag": "NEW",
+          "text": "SSL otomatis untuk Postgres hosted (Neon/Supabase/Vercel PG)."
+        }
+      ]
+    },
+    {
+      "version": "v1.0.0",
+      "date": "2026-07-23",
+      "codename": "GENESIS",
+      "type": "major",
+      "accent": "#63f2ff",
+      "summary": "Rilis perdana Eternal Echoes — database lengkap Forbidden Memories.",
+      "changes": [
+        {
+          "tag": "NEW",
+          "text": "Database 722 kartu asli dengan Guardian Star, attribute, ATK/DEF, dan passcode."
+        },
+        {
+          "tag": "NEW",
+          "text": "25.131 resep fusion dan 24 ritual summon."
+        },
+        {
+          "tag": "NEW",
+          "text": "Biografi 30 duelist lengkap dengan deck list dan strategi."
+        },
+        {
+          "tag": "NEW",
+          "text": "Alur cerita 9 babak dari Mesir Kuno sampai Nitemare."
+        },
+        {
+          "tag": "NEW",
+          "text": "Fusion Lab — simulator fusion interaktif."
+        },
+        {
+          "tag": "NEW",
+          "text": "Leaderboard dengan penghitung pemain online real-time."
+        },
+        {
+          "tag": "NEW",
+          "text": "Efek kartu holografik dengan tilt 3D dan running text pengumuman."
+        },
+        {
+          "tag": "NEW",
+          "text": "Tema cyberpunk penuh animasi: grid drift, partikel, scanline, glitch."
+        }
+      ]
+    }
+  ]
+}

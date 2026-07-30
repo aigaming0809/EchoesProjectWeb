@@ -1,0 +1,95 @@
+{
+  "gameInfo": {
+    "title": "Yu-Gi-Oh! Eternal Echoes",
+    "subtitle": "Forbidden Memories Remastered",
+    "version": "1.0.0",
+    "build": "5000.BC",
+    "released": "2026-07-28",
+    "engine": "Native Build",
+    "genre": "Card Battle RPG",
+    "players": "1 Player · Offline",
+    "languages": ["Indonesia", "English"],
+    "features": [
+      "722 kartu asli Forbidden Memories",
+      "25.131 resep fusion lengkap",
+      "24 ritual summon",
+      "26 stage campaign penuh",
+      "Sistem Guardian Star & Field Power Bonus",
+      "Tanpa emulator — langsung pasang & main"
+    ]
+  },
+  "notice": {
+    "title": "SEBELUM MEMASANG",
+    "body": "Build ini dibuat untuk komunitas penggemar dan bersifat non-komersial. Yu-Gi-Oh! adalah properti Kazuki Takahashi / Konami. Unduh hanya dari tautan resmi di halaman ini agar terhindar dari file palsu."
+  },
+  "builds": [
+    {
+      "id": "android",
+      "label": "MOBILE",
+      "badge": "APK",
+      "icon": "📱",
+      "accent": "#9dff3c",
+      "file": "EternalEchoes-v1.0.0.apk",
+      "size": "412 MB",
+      "arch": "arm64-v8a · armeabi-v7a",
+      "minOs": "Android 8.0 (Oreo)",
+      "url": "#",
+      "checksum": "SHA-256 · a3f8c21d9e4b7f60c8d5a1e93b7204fd6c8e15a9d3f7b204e6c9a1d8f3b5027e",
+      "recommended": true,
+      "specs": [
+        { "k": "OS", "v": "Android 8.0 ke atas" },
+        { "k": "RAM", "v": "2 GB minimum · 4 GB disarankan" },
+        { "k": "Storage", "v": "1 GB ruang kosong" },
+        { "k": "Prosesor", "v": "Snapdragon 660 / Helio G80 ke atas" },
+        { "k": "Layar", "v": "720p ke atas · orientasi landscape" }
+      ],
+      "steps": [
+        { "no": 1, "title": "Unduh File APK", "desc": "Tekan tombol unduh di atas. Ukuran file 412 MB — pastikan koneksi stabil dan ruang penyimpanan cukup." },
+        { "no": 2, "title": "Izinkan Sumber Tidak Dikenal", "desc": "Buka Pengaturan → Keamanan → Install Unknown Apps, lalu izinkan browser atau File Manager yang kamu pakai." },
+        { "no": 3, "title": "Pasang Aplikasi", "desc": "Buka file APK dari notifikasi unduhan atau folder Download, lalu tekan Install. Proses memakan waktu 1-2 menit." },
+        { "no": 4, "title": "Beri Izin Penyimpanan", "desc": "Saat pertama dibuka, aplikasi meminta izin penyimpanan untuk menyimpan progres dan save game." },
+        { "no": 5, "title": "Mainkan!", "desc": "Kontrol layar sentuh sudah aktif otomatis. Gamepad Bluetooth juga didukung penuh." }
+      ]
+    },
+    {
+      "id": "pc",
+      "label": "PC / LAPTOP",
+      "badge": "EXE",
+      "icon": "🖥️",
+      "accent": "#00f0ff",
+      "file": "EternalEchoes-Setup-v1.0.0.exe",
+      "size": "586 MB",
+      "arch": "x64 (64-bit)",
+      "minOs": "Windows 10",
+      "url": "#",
+      "checksum": "SHA-256 · 7d21e9f4a8c3b56097e2d4a1f8b36c70d9a5e2f14b8c60a3d7e91f5c2b408a6d",
+      "recommended": false,
+      "specs": [
+        { "k": "OS", "v": "Windows 10 / 11 (64-bit)" },
+        { "k": "CPU", "v": "Intel i3 gen-6 / Ryzen 3 ke atas" },
+        { "k": "RAM", "v": "4 GB minimum · 8 GB disarankan" },
+        { "k": "GPU", "v": "DirectX 11 compatible · 1 GB VRAM" },
+        { "k": "Storage", "v": "2 GB ruang kosong" }
+      ],
+      "steps": [
+        { "no": 1, "title": "Unduh Installer", "desc": "Tekan tombol unduh untuk mendapatkan file setup .exe berukuran 586 MB." },
+        { "no": 2, "title": "Lewati Peringatan SmartScreen", "desc": "Windows mungkin menampilkan peringatan karena installer belum bersertifikat. Klik 'More info' → 'Run anyway'." },
+        { "no": 3, "title": "Jalankan Installer", "desc": "Klik dua kali file setup, pilih folder instalasi, lalu tekan Install. Tunggu hingga proses selesai." },
+        { "no": 4, "title": "Buat Shortcut", "desc": "Centang 'Create desktop shortcut' agar mudah diakses dari desktop." },
+        { "no": 5, "title": "Mainkan!", "desc": "Jalankan dari shortcut. Keyboard dan gamepad (Xbox / DualShock) didukung penuh." }
+      ]
+    }
+  ],
+  "controls": [
+    { "platform": "Mobile", "icon": "📱", "items": ["Tap kartu untuk memilih", "Swipe untuk menggeser tangan", "Tahan kartu untuk lihat detail", "Tombol virtual bisa diatur ulang"] },
+    { "platform": "PC", "icon": "⌨️", "items": ["Panah / WASD untuk navigasi", "Enter = konfirmasi · Esc = batal", "Spasi untuk lihat detail kartu", "F5 quick save · F9 quick load"] }
+  ],
+  "faq": [
+    { "q": "Apakah butuh emulator?", "a": "Tidak. Build ini native — APK untuk Android dan installer EXE untuk Windows. Tinggal pasang lalu mainkan." },
+    { "q": "Apakah butuh koneksi internet?", "a": "Tidak untuk bermain. Internet hanya dibutuhkan saat mengunduh dan saat menyinkronkan statistik ke leaderboard." },
+    { "q": "Apakah save game bisa dipindah antar perangkat?", "a": "Bisa. Buka menu Pengaturan → Save Data → Export, lalu salin file .sav ke perangkat lain dan gunakan Import." },
+    { "q": "Kenapa Windows menandai installer sebagai tidak aman?", "a": "Karena installer belum memiliki sertifikat kode berbayar. Ini normal untuk proyek komunitas. Verifikasi checksum SHA-256 untuk memastikan file asli." },
+    { "q": "Bagaimana cara memperbarui ke versi baru?", "a": "Cukup pasang versi terbaru di atas yang lama. Save game dan progres kamu tetap aman." },
+    { "q": "Apakah tersedia untuk iOS atau Mac?", "a": "Belum. Saat ini hanya Android (APK) dan Windows (EXE). Versi lain sedang dipertimbangkan." }
+  ]
+}

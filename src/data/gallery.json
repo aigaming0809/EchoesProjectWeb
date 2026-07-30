@@ -1,0 +1,100 @@
+{
+  "moments": [
+    {
+      "id": "mom-01",
+      "title": "One-Turn Kill: Blue-Eyes Ultimate Dragon",
+      "player": "SetoKaibaID",
+      "category": "combo",
+      "date": "2026-07-28",
+      "likes": 342,
+      "views": "2.4K",
+      "accent": "#00f0ff",
+      "tag": "FUSION MASTER",
+      "desc": "Momen epik saat SetoKaibaID menggabungkan 3x Blue-Eyes White Dragon menjadi Blue-Eyes Ultimate Dragon (4500 ATK) di giliran pertama melawan Seto 3rd.",
+      "image": "https://images.ygoprodeck.com/images/cards/23995346.jpg",
+      "commentsList": [
+        { "id": "c1", "author": "YamiNoGamer", "text": "GG! Combo legendaris ini memang andalan.", "date": "2 hari lalu" },
+        { "id": "c2", "author": "RookieJono", "text": "Mantap banget serangannya!", "date": "1 hari lalu" }
+      ]
+    },
+    {
+      "id": "mom-02",
+      "title": "Kemenangan Dramatis vs Nitemare (HP Sisa 100)",
+      "player": "YamiNoGamer",
+      "category": "boss",
+      "date": "2026-07-27",
+      "likes": 512,
+      "views": "4.1K",
+      "accent": "#ff2bd6",
+      "tag": "NITEMARE SLAYER",
+      "desc": "YamiNoGamer bertahan dari rentetan serangan Gate Guardian dan Black Luster Soldier, lalu membalikkan keadaan menggunakan Raigeki di detik-detik terakhir.",
+      "image": "https://images.ygoprodeck.com/images/cards/337.jpg",
+      "commentsList": [
+        { "id": "c3", "author": "SetoKaibaID", "text": "Nitemare memang duelist tersulit, luar biasa!", "date": "3 hari lalu" }
+      ]
+    },
+    {
+      "id": "mom-03",
+      "title": "Combo 3x Sanga, Kazejin & Suijin",
+      "player": "FusionAdeptX",
+      "category": "combo",
+      "date": "2026-07-26",
+      "likes": 218,
+      "views": "1.8K",
+      "accent": "#ffc857",
+      "tag": "LABYRINTH KING",
+      "desc": "Berhasil mengumpulkan ketiga komponen penjaga labirin dan memanggil Gate Guardian (3750 ATK) di bawah perlindungan Widespread Ruin.",
+      "image": "https://images.ygoprodeck.com/images/cards/25833572.jpg",
+      "commentsList": []
+    },
+    {
+      "id": "mom-04",
+      "title": "Ritual Sempurna: Magician of Black Chaos",
+      "player": "RitualMaster88",
+      "category": "ritual",
+      "date": "2026-07-26",
+      "likes": 189,
+      "views": "1.3K",
+      "accent": "#a855f7",
+      "tag": "RITUAL MASTER",
+      "desc": "Panggilan ritual paling ikonik di Forbidden Memories menggunakan Dark Magic Ritual untuk memanggil Magician of Black Chaos (2800 ATK).",
+      "image": "https://images.ygoprodeck.com/images/cards/30208479.jpg",
+      "commentsList": []
+    },
+    {
+      "id": "mom-05",
+      "title": "Farming S-Tec Sempurna Lawan Jono 2nd",
+      "player": "MeadowFarmer",
+      "category": "farming",
+      "date": "2026-07-25",
+      "likes": 275,
+      "views": "2.1K",
+      "accent": "#9dff3c",
+      "tag": "RED-EYES FARMER",
+      "desc": "Menyelesaikan duel dalam 8 giliran dengan lebih dari 25 fusion beruntun untuk menjatuhkan Red-Eyes B. Dragon dari Jono 2nd.",
+      "image": "https://images.ygoprodeck.com/images/cards/74677422.jpg",
+      "commentsList": []
+    },
+    {
+      "id": "mom-06",
+      "title": "Perfectly Ultimate Great Moth vs Forest Mage",
+      "player": "InsectHaga",
+      "category": "boss",
+      "date": "2026-07-24",
+      "likes": 156,
+      "views": "980",
+      "accent": "#22c55e",
+      "tag": "INSECT QUEEN",
+      "desc": "Mempertahankan Petit Moth dengan equipment berantai selama 6 giliran hingga bermutasi menjadi Perfectly Ultimate Great Moth (3500 ATK).",
+      "image": "https://images.ygoprodeck.com/images/cards/48564022.jpg",
+      "commentsList": []
+    }
+  ],
+  "categories": [
+    { "id": "all", "label": "SEMUA MOMEN", "accent": "#00f0ff" },
+    { "id": "boss", "label": "BOSS BATTLE", "accent": "#ff2bd6" },
+    { "id": "combo", "label": "COMBO FUSION", "accent": "#ffc857" },
+    { "id": "ritual", "label": "RITUAL SUMMON", "accent": "#a855f7" },
+    { "id": "farming", "label": "S-TEC / FARMING", "accent": "#9dff3c" }
+  ]
+}
