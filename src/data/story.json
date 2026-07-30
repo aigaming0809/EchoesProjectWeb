@@ -13,8 +13,13 @@
       "cardId": 35,
       "summary": "Sang Pangeran berlatih Duel Monsters bersama penasihatnya Simon Muran. Malam itu juga, Heishin menyerbu istana dengan kekuatan Millennium Item yang dicuri.",
       "body": "Di puncak kejayaan Mesir, seorang Pangeran muda menguasai permainan suci Duel Monsters di bawah bimbingan Simon Muran. Namun kedamaian itu runtuh ketika Heishin — seorang pendeta yang menemukan tablet batu berisi rahasia tujuh Millennium Item — melancarkan kudeta berdarah. Simon Muran gugur melindungi Pangeran. Dalam detik-detik terakhir, Sang Pangeran menggunakan Millennium Puzzle untuk menyegel kekuatan gelap Heishin, mengorbankan jiwanya sendiri, dan memecah puzzle itu menjadi serpihan yang tersebar sepanjang sejarah.",
-      "duels": ["simon-muran", "heishin"],
-      "keyItems": ["Millennium Puzzle"],
+      "duels": [
+        "simonmuran",
+        "heishin1"
+      ],
+      "keyItems": [
+        "Millennium Puzzle"
+      ],
       "tips": "Duel melawan Simon Muran adalah tutorial. Duel melawan Heishin di prolog dirancang untuk kalah — hasilnya tidak mempengaruhi cerita."
     },
     {
@@ -28,8 +33,15 @@
       "cardId": 722,
       "summary": "Yugi Mutou merakit kembali Millennium Puzzle. Roh Sang Pangeran bangkit, dan jiwa Yugi terlempar 5.000 tahun ke masa lalu.",
       "body": "Setelah delapan tahun, Yugi Mutou akhirnya menyelesaikan Millennium Puzzle. Roh yang tersegel di dalamnya terbangun. Ketika Seto Kaiba mencoba merebut kekuatan puzzle, sebuah gelombang waktu menarik jiwa Yugi mundur — melintasi lima milenium — dan menempatkannya di dalam raga Sang Pangeran Mesir. Di masa lalu, Mesir sudah jatuh ke tangan Heishin. Tanpa deck, tanpa sekutu, Pangeran harus mulai dari nol: menantang penduduk desa untuk mengumpulkan kartu dan Star Chip.",
-      "duels": ["villagers", "seto"],
-      "keyItems": ["Millennium Puzzle"],
+      "duels": [
+        "villager_1",
+        "villager_2",
+        "villager3",
+        "seto1"
+      ],
+      "keyItems": [
+        "Millennium Puzzle"
+      ],
       "tips": "Deck awalmu berisi 40 kartu terlemah dalam game. Grinding Villager dan Free Duel adalah keharusan sebelum melanjutkan."
     },
     {
@@ -43,8 +55,13 @@
       "cardId": 33,
       "summary": "Priest Seto menguji Sang Pangeran, lalu menyerahkannya pada Mage Soldier. Pangeran dilempar ke penjara bawah tanah.",
       "body": "Priest Seto, pemegang Millennium Rod dan tangan kanan Heishin, mencium keberadaan kekuatan kuno pada diri Sang Pangeran. Ia menantang duel — bukan untuk membunuh, melainkan untuk mengukur. Setelah duel, Seto membiarkan Mage Soldier menangkap Pangeran dan menjebloskannya ke penjara istana. Motif Seto tetap kabur: apakah ia benar-benar setia pada Heishin, atau sedang memainkan permainannya sendiri?",
-      "duels": ["seto", "mage-soldier"],
-      "keyItems": ["Millennium Rod"],
+      "duels": [
+        "seto1",
+        "mage_soldier"
+      ],
+      "keyItems": [
+        "Millennium Rod"
+      ],
       "tips": "Simpan Star Chip. Setelah keluar penjara kamu akan butuh kartu kuat untuk melawan enam Mage."
     },
     {
@@ -58,8 +75,14 @@
       "cardId": 69,
       "summary": "Jono dan Teana membantu Pangeran kabur dari penjara. Tiga sekawan itu bersumpah merebut kembali Mesir.",
       "body": "Di dalam penjara, Sang Pangeran bertemu Jono — pemuda desa yang juga ditahan karena melawan tentara Heishin. Bersama Teana yang menyusup dari luar, mereka bertiga berhasil kabur. Persahabatan ini adalah bayangan dari persahabatan Yugi, Joey, dan Tea di masa depan — bukti bahwa ikatan jiwa melampaui waktu. Dari sini, Sang Pangeran mengetahui bahwa Heishin telah membagikan enam Millennium Item kepada para High Mage yang tersebar di seluruh Mesir.",
-      "duels": ["jono", "teana", "mage-soldier"],
-      "keyItems": ["Peta Enam Kuil"],
+      "duels": [
+        "jono",
+        "teana",
+        "mage_soldier"
+      ],
+      "keyItems": [
+        "Peta Enam Kuil"
+      ],
       "tips": "Jono dan Teana bisa di-farm berulang kali di Free Duel. Jono 2nd drop Red-Eyes B. Dragon."
     },
     {
@@ -74,16 +97,16 @@
       "summary": "Lima wilayah, sepuluh duelist. Setiap High Mage memegang satu Millennium Item dan satu field element.",
       "body": "Inti permainan dimulai. Sang Pangeran harus menjelajahi lima wilayah Mesir — Laut, Hutan, Pegunungan, Gurun, dan Padang Rumput. Setiap wilayah dijaga oleh seorang Mage biasa dan seorang High Mage pemegang Millennium Item. Setiap wilayah juga memaksa pemain menguasai mekanika Field Power Bonus: Umi memperkuat Aqua/Fish/Thunder, Forest memperkuat Insect/Beast/Plant, Mountain memperkuat Dragon/Winged Beast/Thunder, Wasteland memperkuat Zombie/Dinosaur/Rock, dan Sogen memperkuat Warrior/Beast-Warrior.\n\nSecmeton menyerahkan Millennium Ring. Anubisius menyerahkan Millennium Scale. Atenza menyerahkan Millennium Eye. Martis menyerahkan Millennium Necklace. Kepura menyerahkan Millennium Rod. Satu per satu, kekuasaan Heishin terkikis.",
       "duels": [
-        "ocean-mage",
-        "high-mage-secmeton",
-        "forest-mage",
-        "high-mage-anubisius",
-        "mountain-mage",
-        "high-mage-atenza",
-        "desert-mage",
-        "high-mage-martis",
-        "meadow-mage",
-        "high-mage-kepura"
+        "ocean_mage",
+        "high_mage_secmeton",
+        "low_forest_mage",
+        "high_mage_anubisius",
+        "mountain_mage",
+        "high_mage_atenza",
+        "desert_mage",
+        "high_mage_martis",
+        "meadow_mage",
+        "high_mage_kepura"
       ],
       "keyItems": [
         "Millennium Ring",
@@ -105,8 +128,14 @@
       "cardId": 374,
       "summary": "Labyrinth Mage, Guardian Sebek, dan Guardian Neku menjaga jalan terakhir menuju istana Heishin.",
       "body": "Dengan lima Millennium Item di tangan, Sang Pangeran memasuki Labyrinth Ruins — sebuah makam kuno yang dibangun untuk menyembunyikan jalan rahasia ke istana. Di sini Labyrinth Mage melepaskan Labyrinth Tank, Wall Shadow, dan Shadow Ghoul. Lebih jauh ke dalam, dua penjaga makam kembar — Sebek dan Neku — menunggu dengan Gate Guardian, fusion tiga elemen berkekuatan 3750 ATK. Ini adalah lompatan kesulitan terbesar dalam permainan.",
-      "duels": ["labyrinth-mage", "guardian-sebek", "guardian-neku"],
-      "keyItems": ["Jalan Rahasia Istana"],
+      "duels": [
+        "labyrinth_mage",
+        "guardian_sebek",
+        "guardian_neku"
+      ],
+      "keyItems": [
+        "Jalan Rahasia Istana"
+      ],
       "tips": "Labyrinth Mage adalah farming spot terbaik untuk Sanga, Kazejin, dan Suijin — tiga material Gate Guardian."
     },
     {
@@ -120,8 +149,13 @@
       "cardId": 380,
       "summary": "Seto merebut seluruh Millennium Item dari Heishin dan Sang Pangeran, lalu menantang duel dengan tiga Blue-Eyes White Dragon.",
       "body": "Ketika Sang Pangeran akhirnya mencapai istana, Priest Seto membuka kartu aslinya: sejak awal ia hanya menunggu semua Millennium Item terkumpul di satu tempat. Ia mengkhianati Heishin, merebut seluruh item, dan menghadapi Sang Pangeran dengan deck paling brutal dalam cerita — tiga Blue-Eyes White Dragon, Blue-Eyes Ultimate Dragon, dan Crush Card. Duel ini adalah puncak rivalitas yang akan terulang lagi 5.000 tahun kemudian antara Yugi dan Kaiba.",
-      "duels": ["seto", "heishin"],
-      "keyItems": ["Tujuh Millennium Item"],
+      "duels": [
+        "seto1",
+        "heishin1"
+      ],
+      "keyItems": [
+        "Tujuh Millennium Item"
+      ],
       "tips": "Seto 3rd drop Blue-Eyes White Dragon dan Blue-Eyes Ultimate Dragon. Banyak speedrunner farming di sini."
     },
     {
@@ -135,8 +169,13 @@
       "cardId": 720,
       "summary": "Heishin memanggil DarkNite sebagai upaya terakhir — dan dibunuh oleh iblis yang ia panggil sendiri.",
       "body": "Terdesak, Heishin membacakan mantra dari tablet batu dan memanggil DarkNite, penguasa dimensi kegelapan. Namun DarkNite menuntut bukti kepemilikan seluruh Millennium Item. Karena Heishin tidak lagi memilikinya, iblis itu membunuhnya seketika. Sang Pangeran kemudian menghadapi DarkNite dalam duel penentu. Setelah kalah, DarkNite melanggar sumpahnya sendiri dan berubah menjadi Nitemare — bentuk final dengan deck berisi Gate Guardian, Meteor B. Dragon, Black Luster Soldier, dan Magician of Black Chaos.\n\nDengan kemenangan terakhir, kegelapan tersegel kembali. Millennium Item dikembalikan ke tempatnya, dan jiwa Yugi kembali ke Domino City — membawa serta memori terlarang tentang siapa sebenarnya roh di dalam Millennium Puzzle.",
-      "duels": ["heishin", "darknite"],
-      "keyItems": ["Kegelapan Tersegel"],
+      "duels": [
+        "heishin1",
+        "darknite"
+      ],
+      "keyItems": [
+        "Kegelapan Tersegel"
+      ],
       "tips": "Nitemare adalah duelist tersulit. Idealnya kamu punya 3x fusion 3000+ ATK dan minimal 2 kartu penghancur (Raigeki / Crush Card / Widespread Ruin)."
     },
     {
@@ -153,26 +192,56 @@
       "duels": [
         "kaiba",
         "pegasus",
-        "mai-valentine",
-        "bandit-keith",
-        "yami-bakura",
+        "maivalentine",
+        "banditkeith",
+        "yami_bakura",
         "isis",
         "shadi",
-        "rex-raptor",
-        "weevil-underwood"
+        "rexraptor",
+        "weevilunderwood"
       ],
-      "keyItems": ["722 Kartu"],
+      "keyItems": [
+        "722 Kartu"
+      ],
       "tips": "S-Tec (menang dengan banyak fusion, sedikit turn) umumnya memberi drop kartu Magic/Equip. S-Pow (menang dengan monster ATK tinggi) memberi drop monster kuat."
     }
   ],
   "millenniumItems": [
-    { "name": "Millennium Puzzle", "holder": "Sang Pangeran / Yugi", "icon": "🧩" },
-    { "name": "Millennium Rod", "holder": "Priest Seto", "icon": "🪄" },
-    { "name": "Millennium Ring", "holder": "High Mage Secmeton", "icon": "💍" },
-    { "name": "Millennium Eye", "holder": "High Mage Atenza", "icon": "👁️" },
-    { "name": "Millennium Scale", "holder": "High Mage Anubisius", "icon": "⚖️" },
-    { "name": "Millennium Necklace", "holder": "High Mage Martis", "icon": "📿" },
-    { "name": "Millennium Key", "holder": "Heishin", "icon": "🔑" }
+    {
+      "name": "Millennium Puzzle",
+      "holder": "Sang Pangeran / Yugi",
+      "icon": "🧩"
+    },
+    {
+      "name": "Millennium Rod",
+      "holder": "Priest Seto",
+      "icon": "🪄"
+    },
+    {
+      "name": "Millennium Ring",
+      "holder": "High Mage Secmeton",
+      "icon": "💍"
+    },
+    {
+      "name": "Millennium Eye",
+      "holder": "High Mage Atenza",
+      "icon": "👁️"
+    },
+    {
+      "name": "Millennium Scale",
+      "holder": "High Mage Anubisius",
+      "icon": "⚖️"
+    },
+    {
+      "name": "Millennium Necklace",
+      "holder": "High Mage Martis",
+      "icon": "📿"
+    },
+    {
+      "name": "Millennium Key",
+      "holder": "Heishin",
+      "icon": "🔑"
+    }
   ],
   "mechanics": [
     {

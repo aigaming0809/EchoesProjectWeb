@@ -48,7 +48,7 @@ export default function HomePage() {
 
   const strongest = STATS.strongest.map((id) => getCard(id)!);
   const rituals = [703, 704, 705, 706, 708, 710, 713, 716].map((id) => getCard(id)!);
-  const featuredDuelists = ["seto", "heishin", "darknite", "high-mage-anubisius", "mai-valentine", "kaiba"]
+  const featuredDuelists = ["seto1", "heishin1", "darknite", "high_mage_anubisius", "maivalentine", "kaiba"]
     .map((s) => characters.find((c) => c.slug === s)!)
     .filter(Boolean);
 

@@ -1,6 +1,6 @@
 [
   {
-    "slug": "prince-atem",
+    "slug": "yami_yugi",
     "name": "The Prince (Atem)",
     "alias": "Yugi Mutou / Sang Pangeran",
     "era": "Ancient Egypt / Modern",
@@ -16,27 +16,80 @@
     "bioLong": "Lima milenium kemudian, seorang bocah SMA bernama Yugi Mutou berhasil merakit kembali Millennium Puzzle di Domino City, membangunkan roh Sang Pangeran yang tertidur. Melalui kekuatan Millennium Item, jiwa Yugi terlempar kembali ke masa Mesir Kuno, mengambil alih raga Pangeran, dan memulai perjalanan untuk merebut kembali tujuh Millennium Item dari tangan para High Mage bawahan Heishin. Sepanjang petualangan ia dibantu Jono dan Teana — reinkarnasi masa lalu dari Joey dan Tea — serta Priest Seto yang loyalitasnya terus dipertanyakan.",
     "quotes": [
       "Aku akan merebut kembali Millennium Item, apa pun taruhannya.",
-      "Kegelapan tidak boleh menguasai Mesir sekali lagi."
+      "Kegelapan tidak boleh menguasai Mesir sekali lagi.",
+      "Aku percaya pada heart of the cards. Draw!",
+      "Heart of the cards menuntunmu meraih kemenangan. Kerja bagus, Pangeran."
     ],
-    "signatureCards": [35, 364, 722, 38, 39, 348],
+    "signatureCards": [
+      35,
+      364,
+      722,
+      38,
+      39,
+      348
+    ],
     "deck": [
-      { "id": 35, "count": 1, "note": "Ace spellcaster" },
-      { "id": 38, "count": 1, "note": "Fusion base Warrior" },
-      { "id": 39, "count": 1, "note": "Fusion base Dragon" },
-      { "id": 364, "count": 1, "note": "Ritual — Black Luster Ritual" },
-      { "id": 722, "count": 1, "note": "Ritual — Dark Magic Ritual" },
-      { "id": 348, "count": 1, "note": "Swords of Revealing Light" },
-      { "id": 336, "count": 1, "note": "Dark Hole" },
-      { "id": 337, "count": 1, "note": "Raigeki" },
-      { "id": 323, "count": 1, "note": "Book of Secret Arts" },
-      { "id": 16, "count": 1, "note": "Time Wizard fusion enabler" }
+      {
+        "id": 35,
+        "count": 1,
+        "note": "Ace spellcaster"
+      },
+      {
+        "id": 38,
+        "count": 1,
+        "note": "Fusion base Warrior"
+      },
+      {
+        "id": 39,
+        "count": 1,
+        "note": "Fusion base Dragon"
+      },
+      {
+        "id": 364,
+        "count": 1,
+        "note": "Ritual — Black Luster Ritual"
+      },
+      {
+        "id": 722,
+        "count": 1,
+        "note": "Ritual — Dark Magic Ritual"
+      },
+      {
+        "id": 348,
+        "count": 1,
+        "note": "Swords of Revealing Light"
+      },
+      {
+        "id": 336,
+        "count": 1,
+        "note": "Dark Hole"
+      },
+      {
+        "id": 337,
+        "count": 1,
+        "note": "Raigeki"
+      },
+      {
+        "id": 323,
+        "count": 1,
+        "note": "Book of Secret Arts"
+      },
+      {
+        "id": 16,
+        "count": 1,
+        "note": "Time Wizard fusion enabler"
+      }
     ],
     "drops": [],
     "strategy": "Deck starter kamu hanya berisi 40 kartu lemah. Prioritaskan farming Meadow Mage / Seto 3rd untuk kartu high-ATK, lalu bangun fusion line Dragon + Thunder.",
-    "storyChapters": ["prologue", "awakening", "final-duel"]
+    "storyChapters": [
+      "prologue",
+      "awakening",
+      "final-duel"
+    ]
   },
   {
-    "slug": "simon-muran",
+    "slug": "simonmuran",
     "name": "Simon Muran",
     "alias": "Penasihat Agung Istana",
     "era": "Ancient Egypt",
@@ -50,19 +103,57 @@
     "titleTag": "Duel Pertamamu",
     "bio": "Penasihat tua dan penjaga Millennium Puzzle. Simon Muran adalah orang yang mengajarkan Sang Pangeran aturan Duel Monsters, dan duel melawannya berfungsi sebagai tutorial permainan. Ia tewas melindungi Pangeran saat serangan Heishin, namun sebelum itu ia sempat membantu menyegel kekuatan gelap ke dalam Millennium Puzzle.",
     "bioLong": "Simon adalah satu-satunya karakter yang tidak boleh kamu kalahkan terlalu cepat — duel melawannya memperkenalkan mekanika Field Power Bonus, Guardian Star, dan Fusion. Ia menggunakan deck lemah berisi monster level rendah agar pemain baru bisa belajar tanpa risiko. Setelah kematiannya, ruhnya tetap menjaga Millennium Puzzle sampai Yugi merakitnya kembali.",
-    "quotes": ["Ingat baik-baik, Pangeran. Guardian Star adalah kunci kemenangan."],
-    "signatureCards": [2, 42, 24, 23, 320],
-    "deck": [
-      { "id": 2, "count": 2, "note": "Mystical Elf — wall 2000 DEF" },
-      { "id": 42, "count": 1, "note": "Illusionist Faceless Mage" },
-      { "id": 24, "count": 2, "note": "Skull Servant" },
-      { "id": 23, "count": 2, "note": "The Wicked Worm Beast" },
-      { "id": 320, "count": 1, "note": "Stop Defense" },
-      { "id": 4, "count": 1, "note": "Baby Dragon" }
+    "quotes": [
+      "Ingat baik-baik, Pangeran. Guardian Star adalah kunci kemenangan."
     ],
-    "drops": [2, 42, 24],
+    "signatureCards": [
+      2,
+      42,
+      24,
+      23,
+      320
+    ],
+    "deck": [
+      {
+        "id": 2,
+        "count": 2,
+        "note": "Mystical Elf — wall 2000 DEF"
+      },
+      {
+        "id": 42,
+        "count": 1,
+        "note": "Illusionist Faceless Mage"
+      },
+      {
+        "id": 24,
+        "count": 2,
+        "note": "Skull Servant"
+      },
+      {
+        "id": 23,
+        "count": 2,
+        "note": "The Wicked Worm Beast"
+      },
+      {
+        "id": 320,
+        "count": 1,
+        "note": "Stop Defense"
+      },
+      {
+        "id": 4,
+        "count": 1,
+        "note": "Baby Dragon"
+      }
+    ],
+    "drops": [
+      2,
+      42,
+      24
+    ],
     "strategy": "Tutorial. Serang langsung dengan monster apa pun — AI Simon tidak pernah menyerang balik pada giliran pertama.",
-    "storyChapters": ["prologue"]
+    "storyChapters": [
+      "prologue"
+    ]
   },
   {
     "slug": "teana",
@@ -79,19 +170,58 @@
     "titleTag": "Sahabat Sejati",
     "bio": "Gadis desa yang bermimpi menjadi duelist hebat. Teana adalah versi Mesir Kuno dari Tea Gardner. Ia dan Jono adalah dua penduduk desa pertama yang berteman dengan Sang Pangeran setelah ia kabur dari penjara Heishin.",
     "bioLong": "Teana menolak menyerah meski deck-nya jauh lebih lemah. Setelah Pangeran menyelamatkannya, ia berlatih keras dan kembali sebagai Teana 2nd dengan deck Spellcaster/Fairy yang jauh lebih menakutkan. Ia adalah salah satu farming spot terbaik di awal permainan karena AI-nya pasif dan drop rate-nya ramah.",
-    "quotes": ["Aku tidak akan kalah lagi! Lihat deck baruku!"],
-    "signatureCards": [2, 531, 62, 318, 323],
-    "deck": [
-      { "id": 2, "count": 2, "note": "Mystical Elf" },
-      { "id": 531, "count": 1, "note": "Mystical Sand" },
-      { "id": 62, "count": 1, "note": "Harpie Lady" },
-      { "id": 318, "count": 1, "note": "Elegant Egotist" },
-      { "id": 323, "count": 1, "note": "Book of Secret Arts" },
-      { "id": 642, "count": 2, "note": "Mystical Sheep #1" }
+    "quotes": [
+      "Aku tidak akan kalah lagi! Lihat deck baruku!"
     ],
-    "drops": [2, 531, 323],
+    "signatureCards": [
+      2,
+      531,
+      62,
+      318,
+      323
+    ],
+    "deck": [
+      {
+        "id": 2,
+        "count": 2,
+        "note": "Mystical Elf"
+      },
+      {
+        "id": 531,
+        "count": 1,
+        "note": "Mystical Sand"
+      },
+      {
+        "id": 62,
+        "count": 1,
+        "note": "Harpie Lady"
+      },
+      {
+        "id": 318,
+        "count": 1,
+        "note": "Elegant Egotist"
+      },
+      {
+        "id": 323,
+        "count": 1,
+        "note": "Book of Secret Arts"
+      },
+      {
+        "id": 642,
+        "count": 2,
+        "note": "Mystical Sheep #1"
+      }
+    ],
+    "drops": [
+      2,
+      531,
+      323
+    ],
     "strategy": "Farming spot ideal untuk Book of Secret Arts dan equip Spellcaster di awal game.",
-    "storyChapters": ["escape", "mage-hunt"]
+    "storyChapters": [
+      "escape",
+      "mage-hunt"
+    ]
   },
   {
     "slug": "jono",
@@ -108,50 +238,62 @@
     "titleTag": "Si Berandal Berhati Emas",
     "bio": "Pemuda desa impulsif dengan keberanian luar biasa. Jono adalah versi Mesir Kuno dari Katsuya Jonouchi (Joey Wheeler). Ia langsung menantang Sang Pangeran begitu bertemu, dan sejak itu jadi sahabat setianya.",
     "bioLong": "Deck Jono berisi Baby Dragon dan Time Wizard — kombinasi ikonik yang menghasilkan Thousand Dragon. Sebagai Jono 2nd ia menjadi salah satu farming spot paling terkenal di Forbidden Memories karena drop Red-Eyes B. Dragon dan kartu Warrior kuat lainnya.",
-    "quotes": ["Hei! Kau kelihatan kuat. Ayo duel!"],
-    "signatureCards": [4, 16, 69, 15, 82],
-    "deck": [
-      { "id": 4, "count": 2, "note": "Baby Dragon" },
-      { "id": 16, "count": 1, "note": "Time Wizard" },
-      { "id": 69, "count": 1, "note": "Thousand Dragon (fusion)" },
-      { "id": 15, "count": 1, "note": "Flame Swordsman" },
-      { "id": 82, "count": 1, "note": "Red-Eyes B. Dragon" },
-      { "id": 26, "count": 2, "note": "Battle Ox" }
+    "quotes": [
+      "Hei! Kau kelihatan kuat. Ayo duel!"
     ],
-    "drops": [4, 16, 82, 15],
+    "signatureCards": [
+      4,
+      16,
+      69,
+      15,
+      82
+    ],
+    "deck": [
+      {
+        "id": 4,
+        "count": 2,
+        "note": "Baby Dragon"
+      },
+      {
+        "id": 16,
+        "count": 1,
+        "note": "Time Wizard"
+      },
+      {
+        "id": 69,
+        "count": 1,
+        "note": "Thousand Dragon (fusion)"
+      },
+      {
+        "id": 15,
+        "count": 1,
+        "note": "Flame Swordsman"
+      },
+      {
+        "id": 82,
+        "count": 1,
+        "note": "Red-Eyes B. Dragon"
+      },
+      {
+        "id": 26,
+        "count": 2,
+        "note": "Battle Ox"
+      }
+    ],
+    "drops": [
+      4,
+      16,
+      82,
+      15
+    ],
     "strategy": "Jono 2nd adalah farming spot legendaris untuk Red-Eyes B. Dragon di rute Free Duel.",
-    "storyChapters": ["escape", "mage-hunt"]
+    "storyChapters": [
+      "escape",
+      "mage-hunt"
+    ]
   },
   {
-    "slug": "villagers",
-    "name": "Villager 1 / 2 / 3",
-    "alias": "Penduduk Desa Mesir",
-    "era": "Ancient Egypt",
-    "role": "Enemy",
-    "faction": "Villagers",
-    "difficulty": 1,
-    "hp": 8000,
-    "accent": "#9ee493",
-    "avatarCardId": 23,
-    "portraitCardId": 642,
-    "titleTag": "Latihan Pemanasan",
-    "bio": "Tiga penduduk desa yang menantangmu setelah Sang Pangeran tiba di masa lalu. Deck mereka penuh monster level rendah dan menjadi sumber Star Chip awal yang penting.",
-    "bioLong": "Villager 1 fokus pada Beast, Villager 2 pada Aqua/Fish, dan Villager 3 pada Warrior lemah. Meski sepele, mereka drop kartu Equip murah yang berguna untuk membangun deck awal sebelum menghadapi Seto.",
-    "quotes": ["Orang asing! Buktikan kau layak berada di desa ini!"],
-    "signatureCards": [23, 24, 642, 538, 302],
-    "deck": [
-      { "id": 23, "count": 2, "note": "The Wicked Worm Beast" },
-      { "id": 24, "count": 2, "note": "Skull Servant" },
-      { "id": 642, "count": 1, "note": "Mystical Sheep #1" },
-      { "id": 538, "count": 1, "note": "Niwatori" },
-      { "id": 302, "count": 1, "note": "Sword of Dark Destruction" }
-    ],
-    "drops": [302, 315, 24],
-    "strategy": "Gunakan untuk grinding Star Chip pertama. Selalu set monster DEF tinggi lalu attack di turn berikutnya.",
-    "storyChapters": ["awakening"]
-  },
-  {
-    "slug": "seto",
+    "slug": "seto1",
     "name": "Priest Seto",
     "alias": "Pemegang Millennium Rod",
     "era": "Ancient Egypt",
@@ -169,23 +311,71 @@
       "Millennium Item itu akan menjadi milikku.",
       "Blue-Eyes White Dragon! Hancurkan dia!"
     ],
-    "signatureCards": [1, 380, 705, 22, 427, 661],
-    "deck": [
-      { "id": 1, "count": 3, "note": "Blue-Eyes White Dragon" },
-      { "id": 380, "count": 1, "note": "Blue-Eyes Ultimate Dragon" },
-      { "id": 705, "count": 1, "note": "Tri-Horned Dragon" },
-      { "id": 427, "count": 1, "note": "Kaiser Dragon" },
-      { "id": 22, "count": 1, "note": "Summoned Skull" },
-      { "id": 661, "count": 1, "note": "Crush Card" },
-      { "id": 332, "count": 1, "note": "Mountain field" },
-      { "id": 315, "count": 2, "note": "Dragon Treasure" }
+    "signatureCards": [
+      1,
+      380,
+      705,
+      22,
+      427,
+      661
     ],
-    "drops": [1, 380, 705, 427],
+    "deck": [
+      {
+        "id": 1,
+        "count": 3,
+        "note": "Blue-Eyes White Dragon"
+      },
+      {
+        "id": 380,
+        "count": 1,
+        "note": "Blue-Eyes Ultimate Dragon"
+      },
+      {
+        "id": 705,
+        "count": 1,
+        "note": "Tri-Horned Dragon"
+      },
+      {
+        "id": 427,
+        "count": 1,
+        "note": "Kaiser Dragon"
+      },
+      {
+        "id": 22,
+        "count": 1,
+        "note": "Summoned Skull"
+      },
+      {
+        "id": 661,
+        "count": 1,
+        "note": "Crush Card"
+      },
+      {
+        "id": 332,
+        "count": 1,
+        "note": "Mountain field"
+      },
+      {
+        "id": 315,
+        "count": 2,
+        "note": "Dragon Treasure"
+      }
+    ],
+    "drops": [
+      1,
+      380,
+      705,
+      427
+    ],
     "strategy": "Seto 2nd & Seto 3rd = farming BEWD/BEUD. Bawa Crush Card counter dan fusion 2500+ ATK, jangan pernah biarkan Seto punya 3 kartu di field.",
-    "storyChapters": ["awakening", "mage-hunt", "betrayal"]
+    "storyChapters": [
+      "awakening",
+      "mage-hunt",
+      "betrayal"
+    ]
   },
   {
-    "slug": "heishin",
+    "slug": "heishin1",
     "name": "Heishin",
     "alias": "High Priest of Darkness",
     "era": "Ancient Egypt",
@@ -203,57 +393,65 @@
       "Millennium Item memilihku! Mesir kini milikku!",
       "DarkNite! Datanglah dan hancurkan bocah ini!"
     ],
-    "signatureCards": [708, 365, 22, 707, 336],
-    "deck": [
-      { "id": 708, "count": 1, "note": "Cosmo Queen" },
-      { "id": 365, "count": 1, "note": "Fiend's Mirror (ritual)" },
-      { "id": 22, "count": 2, "note": "Summoned Skull" },
-      { "id": 707, "count": 1, "note": "Skull Knight" },
-      { "id": 336, "count": 1, "note": "Dark Hole" },
-      { "id": 335, "count": 1, "note": "Yami field" },
-      { "id": 84, "count": 1, "note": "Reaper of the Cards" }
+    "signatureCards": [
+      708,
+      365,
+      22,
+      707,
+      336
     ],
-    "drops": [708, 365, 707, 335],
+    "deck": [
+      {
+        "id": 708,
+        "count": 1,
+        "note": "Cosmo Queen"
+      },
+      {
+        "id": 365,
+        "count": 1,
+        "note": "Fiend's Mirror (ritual)"
+      },
+      {
+        "id": 22,
+        "count": 2,
+        "note": "Summoned Skull"
+      },
+      {
+        "id": 707,
+        "count": 1,
+        "note": "Skull Knight"
+      },
+      {
+        "id": 336,
+        "count": 1,
+        "note": "Dark Hole"
+      },
+      {
+        "id": 335,
+        "count": 1,
+        "note": "Yami field"
+      },
+      {
+        "id": 84,
+        "count": 1,
+        "note": "Reaper of the Cards"
+      }
+    ],
+    "drops": [
+      708,
+      365,
+      707,
+      335
+    ],
     "strategy": "Heishin memaksimalkan field Yami. Bawa monster LIGHT/Fairy dengan Guardian Star Sun untuk memutus bonus field-nya.",
-    "storyChapters": ["prologue", "betrayal", "final-duel"]
+    "storyChapters": [
+      "prologue",
+      "betrayal",
+      "final-duel"
+    ]
   },
   {
-    "slug": "darknite",
-    "name": "DarkNite / Nitemare",
-    "alias": "Penguasa Dimensi Kegelapan",
-    "era": "Beyond Time",
-    "role": "Final Boss",
-    "faction": "The Dark",
-    "difficulty": 5,
-    "hp": 8000,
-    "accent": "#ff2e63",
-    "avatarCardId": 720,
-    "portraitCardId": 374,
-    "titleTag": "Duel Terakhir",
-    "bio": "Iblis kuno yang dipanggil Heishin di detik-detik terakhir. DarkNite membunuh Heishin karena tidak bisa membuktikan kepemilikan seluruh Millennium Item, lalu menantang Sang Pangeran dalam duel penentu nasib dunia.",
-    "bioLong": "Setelah kalah, DarkNite berubah wujud menjadi Nitemare dan melanggar janjinya sendiri — memaksa duel kedua yang jauh lebih brutal. Deck-nya penuh monster 2500+ ATK, ritual monster, dan trap penghancur. Nitemare adalah duelist tersulit dalam game; AI-nya membaca kartu di tanganmu dan hampir selalu punya jawaban.",
-    "quotes": [
-      "Manusia bodoh. Kau tidak memegang semua Millennium Item.",
-      "Aku adalah kegelapan itu sendiri. Duel ini takkan pernah kau menangkan."
-    ],
-    "signatureCards": [374, 720, 713, 364, 722, 709],
-    "deck": [
-      { "id": 374, "count": 1, "note": "Gate Guardian" },
-      { "id": 720, "count": 1, "note": "Mask of Shine & Dark" },
-      { "id": 713, "count": 1, "note": "Meteor B. Dragon" },
-      { "id": 364, "count": 1, "note": "Black Luster Soldier" },
-      { "id": 722, "count": 1, "note": "Magician of Black Chaos" },
-      { "id": 709, "count": 1, "note": "Chakra" },
-      { "id": 705, "count": 1, "note": "Tri-Horned Dragon" },
-      { "id": 336, "count": 1, "note": "Dark Hole" },
-      { "id": 337, "count": 1, "note": "Raigeki" }
-    ],
-    "drops": [374, 720, 713, 722],
-    "strategy": "Wajib bawa 3x fusion 3000+ ATK dan Guardian Star counter. Jangan pernah set monster DEF rendah — Nitemare selalu punya Raigeki/Dark Hole.",
-    "storyChapters": ["final-duel"]
-  },
-  {
-    "slug": "mage-soldier",
+    "slug": "mage_soldier",
     "name": "Mage Soldier",
     "alias": "Prajurit Sihir Heishin",
     "era": "Ancient Egypt",
@@ -267,21 +465,55 @@
     "titleTag": "Penjaga Penjara",
     "bio": "Prajurit sihir yang menangkap Sang Pangeran dan melemparnya ke penjara istana. Deck-nya berisi Warrior dan Zombie kelas menengah.",
     "bioLong": "Setelah dikalahkan, Mage Soldier membuka jalan menuju pelarian dan awal perburuan Millennium Item. Ia muncul berulang kali sebagai penjaga di beberapa lokasi Free Duel.",
-    "quotes": ["Atas nama Master Heishin, kau akan membusuk di penjara!"],
-    "signatureCards": [30, 33, 26, 22],
-    "deck": [
-      { "id": 30, "count": 2, "note": "Zombie Warrior" },
-      { "id": 33, "count": 1, "note": "Judge Man" },
-      { "id": 26, "count": 2, "note": "Battle Ox" },
-      { "id": 22, "count": 1, "note": "Summoned Skull" },
-      { "id": 302, "count": 1, "note": "Sword of Dark Destruction" }
+    "quotes": [
+      "Atas nama Master Heishin, kau akan membusuk di penjara!"
     ],
-    "drops": [33, 30, 302],
+    "signatureCards": [
+      30,
+      33,
+      26,
+      22
+    ],
+    "deck": [
+      {
+        "id": 30,
+        "count": 2,
+        "note": "Zombie Warrior"
+      },
+      {
+        "id": 33,
+        "count": 1,
+        "note": "Judge Man"
+      },
+      {
+        "id": 26,
+        "count": 2,
+        "note": "Battle Ox"
+      },
+      {
+        "id": 22,
+        "count": 1,
+        "note": "Summoned Skull"
+      },
+      {
+        "id": 302,
+        "count": 1,
+        "note": "Sword of Dark Destruction"
+      }
+    ],
+    "drops": [
+      33,
+      30,
+      302
+    ],
     "strategy": "Deck seimbang tanpa field. Fusion Warrior sederhana sudah cukup.",
-    "storyChapters": ["capture", "escape"]
+    "storyChapters": [
+      "capture",
+      "escape"
+    ]
   },
   {
-    "slug": "ocean-mage",
+    "slug": "ocean_mage",
     "name": "Ocean Mage",
     "alias": "Penjaga Kuil Laut",
     "era": "Ancient Egypt",
@@ -295,22 +527,60 @@
     "titleTag": "Umi Field Master",
     "bio": "Penjaga pertama kuil laut. Seluruh deck-nya dibangun di atas field Umi yang memberi Field Power Bonus +30% untuk Aqua, Fish, Sea Serpent, dan Thunder.",
     "bioLong": "Ocean Mage adalah gerbang menuju High Mage Secmeton. Ia memaksa pemain belajar mekanika field: bawa monster Machine atau Pyro yang justru terkena penalti di Umi, dan kamu akan hancur.",
-    "quotes": ["Lautan adalah kuburanmu, orang asing."],
-    "signatureCards": [73, 442, 440, 334, 447],
-    "deck": [
-      { "id": 334, "count": 1, "note": "Umi field" },
-      { "id": 73, "count": 2, "note": "Kairyu-Shin" },
-      { "id": 442, "count": 1, "note": "Aqua Dragon" },
-      { "id": 440, "count": 2, "note": "7 Colored Fish" },
-      { "id": 447, "count": 1, "note": "Giant Red Seasnake" },
-      { "id": 639, "count": 1, "note": "Amphibious Bugroth" }
+    "quotes": [
+      "Lautan adalah kuburanmu, orang asing."
     ],
-    "drops": [440, 73, 334],
+    "signatureCards": [
+      73,
+      442,
+      440,
+      334,
+      447
+    ],
+    "deck": [
+      {
+        "id": 334,
+        "count": 1,
+        "note": "Umi field"
+      },
+      {
+        "id": 73,
+        "count": 2,
+        "note": "Kairyu-Shin"
+      },
+      {
+        "id": 442,
+        "count": 1,
+        "note": "Aqua Dragon"
+      },
+      {
+        "id": 440,
+        "count": 2,
+        "note": "7 Colored Fish"
+      },
+      {
+        "id": 447,
+        "count": 1,
+        "note": "Giant Red Seasnake"
+      },
+      {
+        "id": 639,
+        "count": 1,
+        "note": "Amphibious Bugroth"
+      }
+    ],
+    "drops": [
+      440,
+      73,
+      334
+    ],
     "strategy": "Bawa monster Pyro/Machine? Jangan. Gunakan Thunder — mereka juga dapat bonus Umi tapi punya ATK lebih besar.",
-    "storyChapters": ["mage-hunt"]
+    "storyChapters": [
+      "mage-hunt"
+    ]
   },
   {
-    "slug": "high-mage-secmeton",
+    "slug": "high_mage_secmeton",
     "name": "High Mage Secmeton",
     "alias": "Pemegang Millennium Ring",
     "era": "Ancient Egypt",
@@ -324,22 +594,60 @@
     "titleTag": "Millennium Ring",
     "bio": "High Mage penguasa kuil laut dan pemegang Millennium Ring. Deck-nya adalah versi mematikan dari Ocean Mage, lengkap dengan ritual monster air.",
     "bioLong": "Secmeton menggabungkan Umi dengan ritual Fortress Whale dan Crab Turtle. Setelah dikalahkan, ia menyerahkan Millennium Ring — item yang kelak dimiliki Bakura di masa modern.",
-    "quotes": ["Millennium Ring takkan pernah jatuh ke tangan bocah sepertimu."],
-    "signatureCards": [718, 710, 442, 334, 73],
-    "deck": [
-      { "id": 334, "count": 1, "note": "Umi field" },
-      { "id": 718, "count": 1, "note": "Fortress Whale (ritual)" },
-      { "id": 710, "count": 1, "note": "Crab Turtle (ritual)" },
-      { "id": 442, "count": 2, "note": "Aqua Dragon" },
-      { "id": 73, "count": 2, "note": "Kairyu-Shin" },
-      { "id": 373, "count": 1, "note": "Suijin" }
+    "quotes": [
+      "Millennium Ring takkan pernah jatuh ke tangan bocah sepertimu."
     ],
-    "drops": [718, 710, 373],
+    "signatureCards": [
+      718,
+      710,
+      442,
+      334,
+      73
+    ],
+    "deck": [
+      {
+        "id": 334,
+        "count": 1,
+        "note": "Umi field"
+      },
+      {
+        "id": 718,
+        "count": 1,
+        "note": "Fortress Whale (ritual)"
+      },
+      {
+        "id": 710,
+        "count": 1,
+        "note": "Crab Turtle (ritual)"
+      },
+      {
+        "id": 442,
+        "count": 2,
+        "note": "Aqua Dragon"
+      },
+      {
+        "id": 73,
+        "count": 2,
+        "note": "Kairyu-Shin"
+      },
+      {
+        "id": 373,
+        "count": 1,
+        "note": "Suijin"
+      }
+    ],
+    "drops": [
+      718,
+      710,
+      373
+    ],
     "strategy": "Farming spot Fortress Whale. Gunakan Guardian Star Sun/Mercury untuk mematahkan monster WATER-nya.",
-    "storyChapters": ["mage-hunt"]
+    "storyChapters": [
+      "mage-hunt"
+    ]
   },
   {
-    "slug": "forest-mage",
+    "slug": "low_forest_mage",
     "name": "Forest Mage",
     "alias": "Penjaga Hutan Terlarang",
     "era": "Ancient Egypt",
@@ -353,22 +661,60 @@
     "titleTag": "Forest Field Master",
     "bio": "Penjaga hutan dengan deck Insect, Beast, Beast-Warrior, dan Plant yang seluruhnya diperkuat field Forest.",
     "bioLong": "Forest Mage terkenal karena Great Moth dan Hercules Beetle yang menjadi tembok sulit ditembus di awal permainan. Ia adalah gerbang menuju High Mage Anubisius.",
-    "quotes": ["Hutan ini hidup, dan ia membenci penyusup."],
-    "signatureCards": [52, 57, 50, 330, 295],
-    "deck": [
-      { "id": 330, "count": 1, "note": "Forest field" },
-      { "id": 52, "count": 2, "note": "Hercules Beetle" },
-      { "id": 57, "count": 1, "note": "Great Moth" },
-      { "id": 50, "count": 2, "note": "Basic Insect" },
-      { "id": 295, "count": 1, "note": "Bio Plant" },
-      { "id": 5, "count": 1, "note": "Beast support" }
+    "quotes": [
+      "Hutan ini hidup, dan ia membenci penyusup."
     ],
-    "drops": [52, 57, 330],
+    "signatureCards": [
+      52,
+      57,
+      50,
+      330,
+      295
+    ],
+    "deck": [
+      {
+        "id": 330,
+        "count": 1,
+        "note": "Forest field"
+      },
+      {
+        "id": 52,
+        "count": 2,
+        "note": "Hercules Beetle"
+      },
+      {
+        "id": 57,
+        "count": 1,
+        "note": "Great Moth"
+      },
+      {
+        "id": 50,
+        "count": 2,
+        "note": "Basic Insect"
+      },
+      {
+        "id": 295,
+        "count": 1,
+        "note": "Bio Plant"
+      },
+      {
+        "id": 5,
+        "count": 1,
+        "note": "Beast support"
+      }
+    ],
+    "drops": [
+      52,
+      57,
+      330
+    ],
     "strategy": "Bawa monster Pyro/Fire — mereka mendapat penalti di Forest tapi Insect musuh jauh lebih rapuh terhadap fusion Machine.",
-    "storyChapters": ["mage-hunt"]
+    "storyChapters": [
+      "mage-hunt"
+    ]
   },
   {
-    "slug": "high-mage-anubisius",
+    "slug": "high_mage_anubisius",
     "name": "High Mage Anubisius",
     "alias": "Pemegang Millennium Scale",
     "era": "Ancient Egypt",
@@ -382,22 +728,60 @@
     "titleTag": "Millennium Scale",
     "bio": "High Mage hutan dan pemegang Millennium Scale. Ace-nya adalah Perfectly Ultimate Great Moth dengan 3500 ATK — salah satu monster terkuat yang bisa kamu hadapi di pertengahan game.",
     "bioLong": "Anubisius adalah lonjakan kesulitan pertama yang nyata. Dengan Forest field aktif, Perfectly Ultimate Great Moth mencapai 4550 ATK efektif. Kamu wajib punya fusion 3000+ atau Guardian Star advantage untuk menang.",
-    "quotes": ["Timbangan takdir telah menimbangmu — dan kau ringan."],
-    "signatureCards": [67, 717, 52, 330, 57],
-    "deck": [
-      { "id": 330, "count": 1, "note": "Forest field" },
-      { "id": 67, "count": 1, "note": "Perfectly Ultimate Great Moth" },
-      { "id": 717, "count": 1, "note": "Javelin Beetle (ritual)" },
-      { "id": 57, "count": 1, "note": "Great Moth" },
-      { "id": 52, "count": 2, "note": "Hercules Beetle" },
-      { "id": 501, "count": 1, "note": "Man-Eater Bug" }
+    "quotes": [
+      "Timbangan takdir telah menimbangmu — dan kau ringan."
     ],
-    "drops": [67, 717, 501],
+    "signatureCards": [
+      67,
+      717,
+      52,
+      330,
+      57
+    ],
+    "deck": [
+      {
+        "id": 330,
+        "count": 1,
+        "note": "Forest field"
+      },
+      {
+        "id": 67,
+        "count": 1,
+        "note": "Perfectly Ultimate Great Moth"
+      },
+      {
+        "id": 717,
+        "count": 1,
+        "note": "Javelin Beetle (ritual)"
+      },
+      {
+        "id": 57,
+        "count": 1,
+        "note": "Great Moth"
+      },
+      {
+        "id": 52,
+        "count": 2,
+        "note": "Hercules Beetle"
+      },
+      {
+        "id": 501,
+        "count": 1,
+        "note": "Man-Eater Bug"
+      }
+    ],
+    "drops": [
+      67,
+      717,
+      501
+    ],
     "strategy": "Man-Eater Bug bisa menghancurkan fusion terbaikmu. Selalu serang dengan monster kedua terbaik dulu.",
-    "storyChapters": ["mage-hunt"]
+    "storyChapters": [
+      "mage-hunt"
+    ]
   },
   {
-    "slug": "mountain-mage",
+    "slug": "mountain_mage",
     "name": "Mountain Mage",
     "alias": "Penjaga Puncak Naga",
     "era": "Ancient Egypt",
@@ -411,22 +795,61 @@
     "titleTag": "Mountain Field Master",
     "bio": "Penjaga pegunungan dengan deck Dragon, Winged Beast, dan Thunder yang diperkuat field Mountain.",
     "bioLong": "Mountain Mage adalah farming spot yang bagus untuk kartu Dragon awal seperti Koumori Dragon dan Winged Dragon #1, serta field Mountain itu sendiri.",
-    "quotes": ["Naga-naga gunung akan mencabik-cabikmu."],
-    "signatureCards": [31, 425, 7, 332, 465],
-    "deck": [
-      { "id": 332, "count": 1, "note": "Mountain field" },
-      { "id": 31, "count": 2, "note": "Koumori Dragon" },
-      { "id": 425, "count": 1, "note": "Thunder Dragon" },
-      { "id": 7, "count": 2, "note": "Winged Dragon #1" },
-      { "id": 465, "count": 1, "note": "Punished Eagle" },
-      { "id": 315, "count": 1, "note": "Dragon Treasure" }
+    "quotes": [
+      "Naga-naga gunung akan mencabik-cabikmu."
     ],
-    "drops": [31, 332, 315, 7],
+    "signatureCards": [
+      31,
+      425,
+      7,
+      332,
+      465
+    ],
+    "deck": [
+      {
+        "id": 332,
+        "count": 1,
+        "note": "Mountain field"
+      },
+      {
+        "id": 31,
+        "count": 2,
+        "note": "Koumori Dragon"
+      },
+      {
+        "id": 425,
+        "count": 1,
+        "note": "Thunder Dragon"
+      },
+      {
+        "id": 7,
+        "count": 2,
+        "note": "Winged Dragon #1"
+      },
+      {
+        "id": 465,
+        "count": 1,
+        "note": "Punished Eagle"
+      },
+      {
+        "id": 315,
+        "count": 1,
+        "note": "Dragon Treasure"
+      }
+    ],
+    "drops": [
+      31,
+      332,
+      315,
+      7
+    ],
     "strategy": "Gunakan monster Aqua/Fish — mereka netral di Mountain sementara musuh sangat bergantung pada bonus field.",
-    "storyChapters": ["mage-hunt"]
+    "storyChapters": [
+      "mage-hunt"
+    ]
   },
   {
-    "slug": "high-mage-atenza",
+    "slug": "high_mage_atenza",
     "name": "High Mage Atenza",
     "alias": "Pemegang Millennium Eye",
     "era": "Ancient Egypt",
@@ -440,22 +863,60 @@
     "titleTag": "Millennium Eye",
     "bio": "High Mage pegunungan pemegang Millennium Eye. Deck Dragon-nya diisi Tri-Horned Dragon dan Twin-Headed Thunder Dragon.",
     "bioLong": "Atenza memaksa pemain membangun fusion Dragon sendiri. Millennium Eye yang ia jaga kelak jatuh ke tangan Pegasus di masa modern.",
-    "quotes": ["Mata Millennium melihat setiap kartu di tanganmu."],
-    "signatureCards": [705, 613, 427, 332, 82],
-    "deck": [
-      { "id": 332, "count": 1, "note": "Mountain field" },
-      { "id": 705, "count": 1, "note": "Tri-Horned Dragon" },
-      { "id": 613, "count": 1, "note": "Twin-Headed Thunder Dragon" },
-      { "id": 427, "count": 1, "note": "Kaiser Dragon" },
-      { "id": 82, "count": 1, "note": "Red-Eyes B. Dragon" },
-      { "id": 314, "count": 1, "note": "Horn of the Unicorn" }
+    "quotes": [
+      "Mata Millennium melihat setiap kartu di tanganmu."
     ],
-    "drops": [705, 613, 427],
+    "signatureCards": [
+      705,
+      613,
+      427,
+      332,
+      82
+    ],
+    "deck": [
+      {
+        "id": 332,
+        "count": 1,
+        "note": "Mountain field"
+      },
+      {
+        "id": 705,
+        "count": 1,
+        "note": "Tri-Horned Dragon"
+      },
+      {
+        "id": 613,
+        "count": 1,
+        "note": "Twin-Headed Thunder Dragon"
+      },
+      {
+        "id": 427,
+        "count": 1,
+        "note": "Kaiser Dragon"
+      },
+      {
+        "id": 82,
+        "count": 1,
+        "note": "Red-Eyes B. Dragon"
+      },
+      {
+        "id": 314,
+        "count": 1,
+        "note": "Horn of the Unicorn"
+      }
+    ],
+    "drops": [
+      705,
+      613,
+      427
+    ],
     "strategy": "Farming spot Tri-Horned Dragon (2850 ATK). Bawa fusion 3000+ atau Guardian Star counter Mars/Neptune.",
-    "storyChapters": ["mage-hunt"]
+    "storyChapters": [
+      "mage-hunt"
+    ]
   },
   {
-    "slug": "desert-mage",
+    "slug": "desert_mage",
     "name": "Desert Mage",
     "alias": "Penjaga Gurun Mati",
     "era": "Ancient Egypt",
@@ -469,22 +930,60 @@
     "titleTag": "Wasteland Field Master",
     "bio": "Penjaga gurun dengan deck Dinosaur, Zombie, dan Rock yang seluruhnya diperkuat field Wasteland.",
     "bioLong": "Desert Mage adalah sumber kartu Dinosaur awal seperti Two-Headed King Rex dan Uraby, serta field Wasteland untuk deck Zombie-mu sendiri.",
-    "quotes": ["Pasir ini menyimpan tulang belulang ribuan penyusup."],
-    "signatureCards": [32, 80, 331, 97, 94],
-    "deck": [
-      { "id": 331, "count": 1, "note": "Wasteland field" },
-      { "id": 32, "count": 2, "note": "Two-Headed King Rex" },
-      { "id": 80, "count": 2, "note": "Uraby" },
-      { "id": 97, "count": 1, "note": "Dragon Zombie" },
-      { "id": 94, "count": 1, "note": "Crawling Dragon" },
-      { "id": 81, "count": 1, "note": "Crawling Dragon #2" }
+    "quotes": [
+      "Pasir ini menyimpan tulang belulang ribuan penyusup."
     ],
-    "drops": [32, 80, 331],
+    "signatureCards": [
+      32,
+      80,
+      331,
+      97,
+      94
+    ],
+    "deck": [
+      {
+        "id": 331,
+        "count": 1,
+        "note": "Wasteland field"
+      },
+      {
+        "id": 32,
+        "count": 2,
+        "note": "Two-Headed King Rex"
+      },
+      {
+        "id": 80,
+        "count": 2,
+        "note": "Uraby"
+      },
+      {
+        "id": 97,
+        "count": 1,
+        "note": "Dragon Zombie"
+      },
+      {
+        "id": 94,
+        "count": 1,
+        "note": "Crawling Dragon"
+      },
+      {
+        "id": 81,
+        "count": 1,
+        "note": "Crawling Dragon #2"
+      }
+    ],
+    "drops": [
+      32,
+      80,
+      331
+    ],
     "strategy": "Fusion Bracchio-raidus (Two-Headed King Rex + Crawling Dragon #2) bisa kamu bangun dari kartu yang ia drop sendiri.",
-    "storyChapters": ["mage-hunt"]
+    "storyChapters": [
+      "mage-hunt"
+    ]
   },
   {
-    "slug": "high-mage-martis",
+    "slug": "high_mage_martis",
     "name": "High Mage Martis",
     "alias": "Pemegang Millennium Necklace",
     "era": "Ancient Egypt",
@@ -498,22 +997,60 @@
     "titleTag": "Millennium Necklace",
     "bio": "High Mage gurun pemegang Millennium Necklace. Ace-nya adalah Sengenjin dan Bracchio-raidus di bawah field Wasteland.",
     "bioLong": "Martis menutup rute gurun. Millennium Necklace yang ia jaga kelak menjadi milik Isis di era modern.",
-    "quotes": ["Kalung Millennium telah menunjukkan kekalahanmu padaku."],
-    "signatureCards": [703, 509, 32, 331, 719],
-    "deck": [
-      { "id": 331, "count": 1, "note": "Wasteland field" },
-      { "id": 703, "count": 1, "note": "Sengenjin (ritual)" },
-      { "id": 509, "count": 1, "note": "Bracchio-raidus" },
-      { "id": 719, "count": 1, "note": "Dokurorider (ritual)" },
-      { "id": 32, "count": 2, "note": "Two-Headed King Rex" },
-      { "id": 99, "count": 1, "note": "Pumpking the King of Ghosts" }
+    "quotes": [
+      "Kalung Millennium telah menunjukkan kekalahanmu padaku."
     ],
-    "drops": [703, 509, 719],
+    "signatureCards": [
+      703,
+      509,
+      32,
+      331,
+      719
+    ],
+    "deck": [
+      {
+        "id": 331,
+        "count": 1,
+        "note": "Wasteland field"
+      },
+      {
+        "id": 703,
+        "count": 1,
+        "note": "Sengenjin (ritual)"
+      },
+      {
+        "id": 509,
+        "count": 1,
+        "note": "Bracchio-raidus"
+      },
+      {
+        "id": 719,
+        "count": 1,
+        "note": "Dokurorider (ritual)"
+      },
+      {
+        "id": 32,
+        "count": 2,
+        "note": "Two-Headed King Rex"
+      },
+      {
+        "id": 99,
+        "count": 1,
+        "note": "Pumpking the King of Ghosts"
+      }
+    ],
+    "drops": [
+      703,
+      509,
+      719
+    ],
     "strategy": "Sengenjin 2750 ATK jadi 3575 di Wasteland. Bawa monster WATER dengan Guardian Star Mercury.",
-    "storyChapters": ["mage-hunt"]
+    "storyChapters": [
+      "mage-hunt"
+    ]
   },
   {
-    "slug": "meadow-mage",
+    "slug": "meadow_mage",
     "name": "Meadow Mage",
     "alias": "Penjaga Padang Rumput",
     "era": "Ancient Egypt",
@@ -527,22 +1064,61 @@
     "titleTag": "Sogen Field Master",
     "bio": "Penjaga padang rumput dengan deck Warrior dan Beast-Warrior yang diperkuat field Sogen.",
     "bioLong": "Meadow Mage adalah farming spot terkenal untuk equip Warrior dan kartu seperti Rude Kaiser serta Gaia The Fierce Knight.",
-    "quotes": ["Padang ini adalah medan perangku."],
-    "signatureCards": [38, 382, 333, 26, 15],
-    "deck": [
-      { "id": 333, "count": 1, "note": "Sogen field" },
-      { "id": 38, "count": 1, "note": "Gaia The Fierce Knight" },
-      { "id": 382, "count": 1, "note": "Rude Kaiser" },
-      { "id": 26, "count": 2, "note": "Battle Ox" },
-      { "id": 15, "count": 1, "note": "Flame Swordsman" },
-      { "id": 651, "count": 1, "note": "Kunai with Chain" }
+    "quotes": [
+      "Padang ini adalah medan perangku."
     ],
-    "drops": [38, 382, 333, 651],
+    "signatureCards": [
+      38,
+      382,
+      333,
+      26,
+      15
+    ],
+    "deck": [
+      {
+        "id": 333,
+        "count": 1,
+        "note": "Sogen field"
+      },
+      {
+        "id": 38,
+        "count": 1,
+        "note": "Gaia The Fierce Knight"
+      },
+      {
+        "id": 382,
+        "count": 1,
+        "note": "Rude Kaiser"
+      },
+      {
+        "id": 26,
+        "count": 2,
+        "note": "Battle Ox"
+      },
+      {
+        "id": 15,
+        "count": 1,
+        "note": "Flame Swordsman"
+      },
+      {
+        "id": 651,
+        "count": 1,
+        "note": "Kunai with Chain"
+      }
+    ],
+    "drops": [
+      38,
+      382,
+      333,
+      651
+    ],
     "strategy": "Farming spot Gaia The Fierce Knight untuk fusion Gaia the Dragon Champion.",
-    "storyChapters": ["mage-hunt"]
+    "storyChapters": [
+      "mage-hunt"
+    ]
   },
   {
-    "slug": "high-mage-kepura",
+    "slug": "high_mage_kepura",
     "name": "High Mage Kepura",
     "alias": "Pemegang Millennium Rod",
     "era": "Ancient Egypt",
@@ -556,22 +1132,61 @@
     "titleTag": "Millennium Rod",
     "bio": "High Mage padang rumput. Deck Warrior ritual-nya dipimpin Skull Guardian dan Super War-Lion.",
     "bioLong": "Kepura adalah High Mage terakhir sebelum Labyrinth Ruins. Ia menjaga salah satu Millennium Item yang kelak diperebutkan Seto.",
-    "quotes": ["Tongkat Millennium hanya tunduk pada yang terkuat."],
-    "signatureCards": [704, 356, 38, 333, 716],
-    "deck": [
-      { "id": 333, "count": 1, "note": "Sogen field" },
-      { "id": 704, "count": 1, "note": "Skull Guardian (ritual)" },
-      { "id": 356, "count": 1, "note": "Super War-Lion (ritual)" },
-      { "id": 716, "count": 1, "note": "Garma Sword (ritual)" },
-      { "id": 38, "count": 1, "note": "Gaia The Fierce Knight" },
-      { "id": 362, "count": 1, "note": "Millennium Shield" }
+    "quotes": [
+      "Tongkat Millennium hanya tunduk pada yang terkuat."
     ],
-    "drops": [704, 356, 716, 362],
+    "signatureCards": [
+      704,
+      356,
+      38,
+      333,
+      716
+    ],
+    "deck": [
+      {
+        "id": 333,
+        "count": 1,
+        "note": "Sogen field"
+      },
+      {
+        "id": 704,
+        "count": 1,
+        "note": "Skull Guardian (ritual)"
+      },
+      {
+        "id": 356,
+        "count": 1,
+        "note": "Super War-Lion (ritual)"
+      },
+      {
+        "id": 716,
+        "count": 1,
+        "note": "Garma Sword (ritual)"
+      },
+      {
+        "id": 38,
+        "count": 1,
+        "note": "Gaia The Fierce Knight"
+      },
+      {
+        "id": 362,
+        "count": 1,
+        "note": "Millennium Shield"
+      }
+    ],
+    "drops": [
+      704,
+      356,
+      716,
+      362
+    ],
     "strategy": "Millennium Shield 3000 DEF adalah tembok. Bawa Stop Defense atau fusion 3000+ ATK.",
-    "storyChapters": ["mage-hunt"]
+    "storyChapters": [
+      "mage-hunt"
+    ]
   },
   {
-    "slug": "labyrinth-mage",
+    "slug": "labyrinth_mage",
     "name": "Labyrinth Mage",
     "alias": "Penjaga Reruntuhan Labirin",
     "era": "Ancient Egypt",
@@ -585,23 +1200,67 @@
     "titleTag": "Labyrinth Ruins",
     "bio": "Penguasa Labyrinth Ruins yang mengendalikan Labyrinth Tank, Wall Shadow, dan Shadow Ghoul.",
     "bioLong": "Labyrinth Mage adalah salah satu duel tersulit di paruh akhir permainan. Deck-nya penuh monster 2000+ ATK dengan dukungan Magical Labyrinth. Ia adalah farming spot terbaik untuk komponen Gate Guardian.",
-    "quotes": ["Tidak ada jalan keluar dari labirin ini."],
-    "signatureCards": [370, 369, 368, 652, 374],
-    "deck": [
-      { "id": 370, "count": 1, "note": "Labyrinth Tank" },
-      { "id": 369, "count": 1, "note": "Wall Shadow" },
-      { "id": 368, "count": 1, "note": "Shadow Ghoul" },
-      { "id": 652, "count": 1, "note": "Magical Labyrinth" },
-      { "id": 371, "count": 1, "note": "Sanga of the Thunder" },
-      { "id": 372, "count": 1, "note": "Kazejin" },
-      { "id": 373, "count": 1, "note": "Suijin" }
+    "quotes": [
+      "Tidak ada jalan keluar dari labirin ini."
     ],
-    "drops": [371, 372, 373, 370, 369],
+    "signatureCards": [
+      370,
+      369,
+      368,
+      652,
+      374
+    ],
+    "deck": [
+      {
+        "id": 370,
+        "count": 1,
+        "note": "Labyrinth Tank"
+      },
+      {
+        "id": 369,
+        "count": 1,
+        "note": "Wall Shadow"
+      },
+      {
+        "id": 368,
+        "count": 1,
+        "note": "Shadow Ghoul"
+      },
+      {
+        "id": 652,
+        "count": 1,
+        "note": "Magical Labyrinth"
+      },
+      {
+        "id": 371,
+        "count": 1,
+        "note": "Sanga of the Thunder"
+      },
+      {
+        "id": 372,
+        "count": 1,
+        "note": "Kazejin"
+      },
+      {
+        "id": 373,
+        "count": 1,
+        "note": "Suijin"
+      }
+    ],
+    "drops": [
+      371,
+      372,
+      373,
+      370,
+      369
+    ],
     "strategy": "Farming spot komponen Gate Guardian: Sanga, Kazejin, dan Suijin.",
-    "storyChapters": ["labyrinth"]
+    "storyChapters": [
+      "labyrinth"
+    ]
   },
   {
-    "slug": "guardian-sebek",
+    "slug": "guardian_sebek",
     "name": "Guardian Sebek",
     "alias": "Penjaga Kembar Pertama",
     "era": "Ancient Egypt",
@@ -615,21 +1274,55 @@
     "titleTag": "Trap Master",
     "bio": "Salah satu dari dua penjaga makam yang melindungi jalan menuju istana Heishin. Sebek menggunakan deck Trap-heavy yang menghancurkan fusion terkuatmu.",
     "bioLong": "Sebek dan Neku adalah ujian terakhir sebelum konfrontasi final. Deck mereka penuh kartu 2500+ ATK dan trap seperti Widespread Ruin.",
-    "quotes": ["Makam ini dijaga sejak sebelum kau lahir."],
-    "signatureCards": [371, 372, 686, 22, 707],
-    "deck": [
-      { "id": 371, "count": 1, "note": "Sanga of the Thunder" },
-      { "id": 372, "count": 1, "note": "Kazejin" },
-      { "id": 686, "count": 2, "note": "Widespread Ruin" },
-      { "id": 22, "count": 1, "note": "Summoned Skull" },
-      { "id": 707, "count": 1, "note": "Skull Knight" }
+    "quotes": [
+      "Makam ini dijaga sejak sebelum kau lahir."
     ],
-    "drops": [371, 372, 686],
+    "signatureCards": [
+      371,
+      372,
+      686,
+      22,
+      707
+    ],
+    "deck": [
+      {
+        "id": 371,
+        "count": 1,
+        "note": "Sanga of the Thunder"
+      },
+      {
+        "id": 372,
+        "count": 1,
+        "note": "Kazejin"
+      },
+      {
+        "id": 686,
+        "count": 2,
+        "note": "Widespread Ruin"
+      },
+      {
+        "id": 22,
+        "count": 1,
+        "note": "Summoned Skull"
+      },
+      {
+        "id": 707,
+        "count": 1,
+        "note": "Skull Knight"
+      }
+    ],
+    "drops": [
+      371,
+      372,
+      686
+    ],
     "strategy": "Serang dengan monster kedua terbaik dulu untuk memancing trap.",
-    "storyChapters": ["labyrinth"]
+    "storyChapters": [
+      "labyrinth"
+    ]
   },
   {
-    "slug": "guardian-neku",
+    "slug": "guardian_neku",
     "name": "Guardian Neku",
     "alias": "Penjaga Kembar Kedua",
     "era": "Ancient Egypt",
@@ -643,18 +1336,52 @@
     "titleTag": "Gate Guardian",
     "bio": "Penjaga kedua makam kerajaan. Neku memiliki Gate Guardian — fusion tiga bagian dengan 3750 ATK.",
     "bioLong": "Mengalahkan Neku membuka jalan ke istana. Ia adalah farming spot Gate Guardian yang paling konsisten dalam game.",
-    "quotes": ["Gate Guardian! Tutup gerbang ini selamanya!"],
-    "signatureCards": [374, 373, 371, 372, 705],
-    "deck": [
-      { "id": 374, "count": 1, "note": "Gate Guardian 3750 ATK" },
-      { "id": 373, "count": 1, "note": "Suijin" },
-      { "id": 371, "count": 1, "note": "Sanga of the Thunder" },
-      { "id": 372, "count": 1, "note": "Kazejin" },
-      { "id": 705, "count": 1, "note": "Tri-Horned Dragon" }
+    "quotes": [
+      "Gate Guardian! Tutup gerbang ini selamanya!"
     ],
-    "drops": [374, 373, 705],
+    "signatureCards": [
+      374,
+      373,
+      371,
+      372,
+      705
+    ],
+    "deck": [
+      {
+        "id": 374,
+        "count": 1,
+        "note": "Gate Guardian 3750 ATK"
+      },
+      {
+        "id": 373,
+        "count": 1,
+        "note": "Suijin"
+      },
+      {
+        "id": 371,
+        "count": 1,
+        "note": "Sanga of the Thunder"
+      },
+      {
+        "id": 372,
+        "count": 1,
+        "note": "Kazejin"
+      },
+      {
+        "id": 705,
+        "count": 1,
+        "note": "Tri-Horned Dragon"
+      }
+    ],
+    "drops": [
+      374,
+      373,
+      705
+    ],
     "strategy": "Gate Guardian 3750 ATK hanya bisa dikalahkan fusion 3800+. Atau gunakan Crush Card / Widespread Ruin.",
-    "storyChapters": ["labyrinth"]
+    "storyChapters": [
+      "labyrinth"
+    ]
   },
   {
     "slug": "kaiba",
@@ -671,19 +1398,57 @@
     "titleTag": "Blue-Eyes Farm",
     "bio": "Rival abadi Yugi di era modern. Di Forbidden Memories, Kaiba muncul sebagai duelist Free Duel dengan deck Dragon murni.",
     "bioLong": "Kaiba adalah salah satu drop terbaik untuk Blue-Eyes White Dragon di sisi modern roster. Deck-nya berisi tiga BEWD, Blue-Eyes Ultimate Dragon, dan berbagai equip Dragon.",
-    "quotes": ["Tidak ada yang bisa mengalahkan Blue-Eyes White Dragon!"],
-    "signatureCards": [1, 380, 705, 315, 427],
-    "deck": [
-      { "id": 1, "count": 3, "note": "Blue-Eyes White Dragon" },
-      { "id": 380, "count": 1, "note": "Blue-Eyes Ultimate Dragon" },
-      { "id": 705, "count": 1, "note": "Tri-Horned Dragon" },
-      { "id": 427, "count": 1, "note": "Kaiser Dragon" },
-      { "id": 315, "count": 2, "note": "Dragon Treasure" },
-      { "id": 332, "count": 1, "note": "Mountain field" }
+    "quotes": [
+      "Tidak ada yang bisa mengalahkan Blue-Eyes White Dragon!"
     ],
-    "drops": [1, 380, 315],
+    "signatureCards": [
+      1,
+      380,
+      705,
+      315,
+      427
+    ],
+    "deck": [
+      {
+        "id": 1,
+        "count": 3,
+        "note": "Blue-Eyes White Dragon"
+      },
+      {
+        "id": 380,
+        "count": 1,
+        "note": "Blue-Eyes Ultimate Dragon"
+      },
+      {
+        "id": 705,
+        "count": 1,
+        "note": "Tri-Horned Dragon"
+      },
+      {
+        "id": 427,
+        "count": 1,
+        "note": "Kaiser Dragon"
+      },
+      {
+        "id": 315,
+        "count": 2,
+        "note": "Dragon Treasure"
+      },
+      {
+        "id": 332,
+        "count": 1,
+        "note": "Mountain field"
+      }
+    ],
+    "drops": [
+      1,
+      380,
+      315
+    ],
     "strategy": "Farming BEWD kelas atas. Selalu bawa Crush Card untuk menghancurkan tiga BEWD sekaligus.",
-    "storyChapters": ["free-duel"]
+    "storyChapters": [
+      "free-duel"
+    ]
   },
   {
     "slug": "pegasus",
@@ -700,21 +1465,55 @@
     "titleTag": "Toon Deck",
     "bio": "Pencipta Duel Monsters dan pemegang Millennium Eye di era modern. Deck-nya penuh monster Toon yang aneh namun mematikan.",
     "bioLong": "Pegasus adalah farming spot untuk kartu Toon seperti Toon Alligator dan Dark Rabbit, serta beberapa kartu Fiend langka.",
-    "quotes": ["Duel Monsters adalah ciptaanku, boy."],
-    "signatureCards": [381, 384, 385, 95, 120],
-    "deck": [
-      { "id": 381, "count": 2, "note": "Toon Alligator" },
-      { "id": 384, "count": 1, "note": "Dark Rabbit" },
-      { "id": 385, "count": 1, "note": "Bickuribox" },
-      { "id": 95, "count": 1, "note": "Crass Clown" },
-      { "id": 120, "count": 1, "note": "Dream Clown" }
+    "quotes": [
+      "Duel Monsters adalah ciptaanku, boy."
     ],
-    "drops": [381, 384, 385],
+    "signatureCards": [
+      381,
+      384,
+      385,
+      95,
+      120
+    ],
+    "deck": [
+      {
+        "id": 381,
+        "count": 2,
+        "note": "Toon Alligator"
+      },
+      {
+        "id": 384,
+        "count": 1,
+        "note": "Dark Rabbit"
+      },
+      {
+        "id": 385,
+        "count": 1,
+        "note": "Bickuribox"
+      },
+      {
+        "id": 95,
+        "count": 1,
+        "note": "Crass Clown"
+      },
+      {
+        "id": 120,
+        "count": 1,
+        "note": "Dream Clown"
+      }
+    ],
+    "drops": [
+      381,
+      384,
+      385
+    ],
     "strategy": "Deck Toon lemah secara ATK. Fusion Warrior sederhana sudah cukup.",
-    "storyChapters": ["free-duel"]
+    "storyChapters": [
+      "free-duel"
+    ]
   },
   {
-    "slug": "mai-valentine",
+    "slug": "maivalentine",
     "name": "Mai Valentine",
     "alias": "Kujaku Mai",
     "era": "Modern",
@@ -728,21 +1527,56 @@
     "titleTag": "Harpie Deck",
     "bio": "Duelist wanita paling ikonik dengan deck Harpie Lady. Di Forbidden Memories ia adalah farming spot terbaik untuk Harpie Lady dan Elegant Egotist.",
     "bioLong": "Mai menggunakan Harpie Lady, Harpie Lady Sisters, Cyber Shield, dan Harpie's Pet Dragon. Deck Winged Beast-nya kuat di field Mountain.",
-    "quotes": ["Harpie Lady, tunjukkan pada mereka arti keanggunan!"],
-    "signatureCards": [62, 63, 386, 318, 317],
-    "deck": [
-      { "id": 62, "count": 3, "note": "Harpie Lady" },
-      { "id": 63, "count": 1, "note": "Harpie Lady Sisters" },
-      { "id": 386, "count": 1, "note": "Harpie's Pet Dragon" },
-      { "id": 318, "count": 1, "note": "Elegant Egotist" },
-      { "id": 317, "count": 2, "note": "Cyber Shield" }
+    "quotes": [
+      "Harpie Lady, tunjukkan pada mereka arti keanggunan!"
     ],
-    "drops": [62, 63, 317, 318],
+    "signatureCards": [
+      62,
+      63,
+      386,
+      318,
+      317
+    ],
+    "deck": [
+      {
+        "id": 62,
+        "count": 3,
+        "note": "Harpie Lady"
+      },
+      {
+        "id": 63,
+        "count": 1,
+        "note": "Harpie Lady Sisters"
+      },
+      {
+        "id": 386,
+        "count": 1,
+        "note": "Harpie's Pet Dragon"
+      },
+      {
+        "id": 318,
+        "count": 1,
+        "note": "Elegant Egotist"
+      },
+      {
+        "id": 317,
+        "count": 2,
+        "note": "Cyber Shield"
+      }
+    ],
+    "drops": [
+      62,
+      63,
+      317,
+      318
+    ],
     "strategy": "Farming Cyber Shield + Harpie Lady untuk fusion Harpie's Pet Dragon.",
-    "storyChapters": ["free-duel"]
+    "storyChapters": [
+      "free-duel"
+    ]
   },
   {
-    "slug": "bandit-keith",
+    "slug": "banditkeith",
     "name": "Bandit Keith",
     "alias": "Keith Howard",
     "era": "Modern",
@@ -756,21 +1590,55 @@
     "titleTag": "Machine Deck",
     "bio": "Duelist Amerika berdarah dingin dengan deck Machine murni. Salah satu farming spot terbaik untuk kartu Machine di Forbidden Memories.",
     "bioLong": "Keith menggunakan Machine King, Launcher Spider, dan Machine Conversion Factory. Deck Machine-nya sangat kuat karena tidak terpengaruh field kecuali Yami.",
-    "quotes": ["Mesin tidak pernah salah. Manusia yang salah."],
-    "signatureCards": [407, 390, 512, 325, 417],
-    "deck": [
-      { "id": 407, "count": 1, "note": "Machine King" },
-      { "id": 390, "count": 1, "note": "Launcher Spider" },
-      { "id": 512, "count": 2, "note": "Cannon Soldier" },
-      { "id": 325, "count": 2, "note": "Machine Conversion Factory" },
-      { "id": 417, "count": 1, "note": "Blast Juggler" }
+    "quotes": [
+      "Mesin tidak pernah salah. Manusia yang salah."
     ],
-    "drops": [407, 390, 325],
+    "signatureCards": [
+      407,
+      390,
+      512,
+      325,
+      417
+    ],
+    "deck": [
+      {
+        "id": 407,
+        "count": 1,
+        "note": "Machine King"
+      },
+      {
+        "id": 390,
+        "count": 1,
+        "note": "Launcher Spider"
+      },
+      {
+        "id": 512,
+        "count": 2,
+        "note": "Cannon Soldier"
+      },
+      {
+        "id": 325,
+        "count": 2,
+        "note": "Machine Conversion Factory"
+      },
+      {
+        "id": 417,
+        "count": 1,
+        "note": "Blast Juggler"
+      }
+    ],
+    "drops": [
+      407,
+      390,
+      325
+    ],
     "strategy": "Farming Machine Conversion Factory untuk deck Machine-mu sendiri.",
-    "storyChapters": ["free-duel"]
+    "storyChapters": [
+      "free-duel"
+    ]
   },
   {
-    "slug": "yami-bakura",
+    "slug": "yami_bakura",
     "name": "Yami Bakura",
     "alias": "Roh Millennium Ring",
     "era": "Modern",
@@ -784,18 +1652,52 @@
     "titleTag": "Zombie Deck",
     "bio": "Roh pencuri kuno yang bersemayam di Millennium Ring. Deck Zombie/Fiend-nya diperkuat field Yami.",
     "bioLong": "Bakura menggunakan Pumpking the King of Ghosts, Dragon Zombie, dan berbagai Fiend. Ia adalah farming spot bagus untuk kartu Zombie dan field Yami.",
-    "quotes": ["Jiwamu akan menjadi koleksiku berikutnya."],
-    "signatureCards": [99, 97, 335, 139, 84],
-    "deck": [
-      { "id": 335, "count": 1, "note": "Yami field" },
-      { "id": 99, "count": 1, "note": "Pumpking the King of Ghosts" },
-      { "id": 97, "count": 2, "note": "Dragon Zombie" },
-      { "id": 139, "count": 1, "note": "Blue-Eyed Silver Zombie" },
-      { "id": 84, "count": 1, "note": "Reaper of the Cards" }
+    "quotes": [
+      "Jiwamu akan menjadi koleksiku berikutnya."
     ],
-    "drops": [99, 335, 84],
+    "signatureCards": [
+      99,
+      97,
+      335,
+      139,
+      84
+    ],
+    "deck": [
+      {
+        "id": 335,
+        "count": 1,
+        "note": "Yami field"
+      },
+      {
+        "id": 99,
+        "count": 1,
+        "note": "Pumpking the King of Ghosts"
+      },
+      {
+        "id": 97,
+        "count": 2,
+        "note": "Dragon Zombie"
+      },
+      {
+        "id": 139,
+        "count": 1,
+        "note": "Blue-Eyed Silver Zombie"
+      },
+      {
+        "id": 84,
+        "count": 1,
+        "note": "Reaper of the Cards"
+      }
+    ],
+    "drops": [
+      99,
+      335,
+      84
+    ],
     "strategy": "Bawa monster LIGHT/Fairy — mereka mendapat penalti di Yami tapi bisa dilindungi Guardian Star Sun.",
-    "storyChapters": ["free-duel"]
+    "storyChapters": [
+      "free-duel"
+    ]
   },
   {
     "slug": "isis",
@@ -812,18 +1714,52 @@
     "titleTag": "Millennium Keeper",
     "bio": "Penjaga makam yang memahami sejarah Millennium Item. Deck-nya berisi Spellcaster dan Fairy dengan dukungan ritual.",
     "bioLong": "Isis adalah salah satu duelist Free Duel dengan drop rate menarik untuk kartu Spellcaster kuat dan Cosmo Queen.",
-    "quotes": ["Takdir telah tertulis di batu, Pangeran."],
-    "signatureCards": [531, 708, 2, 551, 323],
-    "deck": [
-      { "id": 708, "count": 1, "note": "Cosmo Queen" },
-      { "id": 531, "count": 1, "note": "Mystical Sand" },
-      { "id": 551, "count": 1, "note": "Dark Elf" },
-      { "id": 2, "count": 2, "note": "Mystical Elf" },
-      { "id": 323, "count": 2, "note": "Book of Secret Arts" }
+    "quotes": [
+      "Takdir telah tertulis di batu, Pangeran."
     ],
-    "drops": [708, 531, 551],
+    "signatureCards": [
+      531,
+      708,
+      2,
+      551,
+      323
+    ],
+    "deck": [
+      {
+        "id": 708,
+        "count": 1,
+        "note": "Cosmo Queen"
+      },
+      {
+        "id": 531,
+        "count": 1,
+        "note": "Mystical Sand"
+      },
+      {
+        "id": 551,
+        "count": 1,
+        "note": "Dark Elf"
+      },
+      {
+        "id": 2,
+        "count": 2,
+        "note": "Mystical Elf"
+      },
+      {
+        "id": 323,
+        "count": 2,
+        "note": "Book of Secret Arts"
+      }
+    ],
+    "drops": [
+      708,
+      531,
+      551
+    ],
     "strategy": "Farming Cosmo Queen (2900 ATK) tanpa harus melawan Heishin.",
-    "storyChapters": ["free-duel"]
+    "storyChapters": [
+      "free-duel"
+    ]
   },
   {
     "slug": "shadi",
@@ -840,21 +1776,55 @@
     "titleTag": "Mystic Deck",
     "bio": "Sosok misterius penjaga Millennium Key dan Millennium Scale. Deck-nya campuran Spellcaster dan Fiend yang sulit ditebak.",
     "bioLong": "Shadi adalah duelist netral yang menguji kelayakan pemegang Millennium Item. Drop-nya berisi kartu magic support yang berguna.",
-    "quotes": ["Aku hanya menilai. Aku tidak menghakimi."],
-    "signatureCards": [42, 707, 336, 348, 22],
-    "deck": [
-      { "id": 42, "count": 2, "note": "Illusionist Faceless Mage" },
-      { "id": 707, "count": 1, "note": "Skull Knight" },
-      { "id": 336, "count": 1, "note": "Dark Hole" },
-      { "id": 348, "count": 1, "note": "Swords of Revealing Light" },
-      { "id": 22, "count": 1, "note": "Summoned Skull" }
+    "quotes": [
+      "Aku hanya menilai. Aku tidak menghakimi."
     ],
-    "drops": [336, 348, 42],
+    "signatureCards": [
+      42,
+      707,
+      336,
+      348,
+      22
+    ],
+    "deck": [
+      {
+        "id": 42,
+        "count": 2,
+        "note": "Illusionist Faceless Mage"
+      },
+      {
+        "id": 707,
+        "count": 1,
+        "note": "Skull Knight"
+      },
+      {
+        "id": 336,
+        "count": 1,
+        "note": "Dark Hole"
+      },
+      {
+        "id": 348,
+        "count": 1,
+        "note": "Swords of Revealing Light"
+      },
+      {
+        "id": 22,
+        "count": 1,
+        "note": "Summoned Skull"
+      }
+    ],
+    "drops": [
+      336,
+      348,
+      42
+    ],
     "strategy": "Farming Dark Hole dan Swords of Revealing Light.",
-    "storyChapters": ["free-duel"]
+    "storyChapters": [
+      "free-duel"
+    ]
   },
   {
-    "slug": "rex-raptor",
+    "slug": "rexraptor",
     "name": "Rex Raptor",
     "alias": "Dinosaur Ryuzaki",
     "era": "Modern",
@@ -868,21 +1838,56 @@
     "titleTag": "Dinosaur Deck",
     "bio": "Duelist dinosaur yang agresif. Deck-nya diperkuat field Wasteland dan berisi Two-Headed King Rex serta Bracchio-raidus.",
     "bioLong": "Rex adalah farming spot awal yang bagus untuk kartu Dinosaur dan fusion material Bracchio-raidus.",
-    "quotes": ["Dinosaurku akan menginjakmu!"],
-    "signatureCards": [32, 509, 80, 331, 94],
-    "deck": [
-      { "id": 331, "count": 1, "note": "Wasteland field" },
-      { "id": 32, "count": 2, "note": "Two-Headed King Rex" },
-      { "id": 509, "count": 1, "note": "Bracchio-raidus" },
-      { "id": 80, "count": 2, "note": "Uraby" },
-      { "id": 81, "count": 1, "note": "Crawling Dragon #2" }
+    "quotes": [
+      "Dinosaurku akan menginjakmu!"
     ],
-    "drops": [32, 80, 81, 509],
+    "signatureCards": [
+      32,
+      509,
+      80,
+      331,
+      94
+    ],
+    "deck": [
+      {
+        "id": 331,
+        "count": 1,
+        "note": "Wasteland field"
+      },
+      {
+        "id": 32,
+        "count": 2,
+        "note": "Two-Headed King Rex"
+      },
+      {
+        "id": 509,
+        "count": 1,
+        "note": "Bracchio-raidus"
+      },
+      {
+        "id": 80,
+        "count": 2,
+        "note": "Uraby"
+      },
+      {
+        "id": 81,
+        "count": 1,
+        "note": "Crawling Dragon #2"
+      }
+    ],
+    "drops": [
+      32,
+      80,
+      81,
+      509
+    ],
     "strategy": "Kumpulkan material Bracchio-raidus langsung dari drop-nya.",
-    "storyChapters": ["free-duel"]
+    "storyChapters": [
+      "free-duel"
+    ]
   },
   {
-    "slug": "weevil-underwood",
+    "slug": "weevilunderwood",
     "name": "Weevil Underwood",
     "alias": "Insector Haga",
     "era": "Modern",
@@ -896,17 +1901,788 @@
     "titleTag": "Insect Deck",
     "bio": "Juara regional dengan deck Insect. Ia mengandalkan Forest field dan kombinasi Great Moth.",
     "bioLong": "Weevil adalah farming spot untuk Hercules Beetle, Basic Insect, dan Man-Eater Bug — kartu efek penghancur yang sangat berguna.",
-    "quotes": ["Serangga adalah makhluk paling sempurna di bumi!"],
-    "signatureCards": [50, 52, 57, 501, 330],
-    "deck": [
-      { "id": 330, "count": 1, "note": "Forest field" },
-      { "id": 50, "count": 2, "note": "Basic Insect" },
-      { "id": 52, "count": 2, "note": "Hercules Beetle" },
-      { "id": 57, "count": 1, "note": "Great Moth" },
-      { "id": 501, "count": 1, "note": "Man-Eater Bug" }
+    "quotes": [
+      "Serangga adalah makhluk paling sempurna di bumi!"
     ],
-    "drops": [50, 52, 501, 330],
+    "signatureCards": [
+      50,
+      52,
+      57,
+      501,
+      330
+    ],
+    "deck": [
+      {
+        "id": 330,
+        "count": 1,
+        "note": "Forest field"
+      },
+      {
+        "id": 50,
+        "count": 2,
+        "note": "Basic Insect"
+      },
+      {
+        "id": 52,
+        "count": 2,
+        "note": "Hercules Beetle"
+      },
+      {
+        "id": 57,
+        "count": 1,
+        "note": "Great Moth"
+      },
+      {
+        "id": 501,
+        "count": 1,
+        "note": "Man-Eater Bug"
+      }
+    ],
+    "drops": [
+      50,
+      52,
+      501,
+      330
+    ],
     "strategy": "Farming Man-Eater Bug — kartu efek terbaik untuk melawan boss ber-ATK tinggi.",
-    "storyChapters": ["free-duel"]
+    "storyChapters": [
+      "free-duel"
+    ]
+  },
+  {
+    "slug": "villager_1",
+    "name": "Villager 1",
+    "alias": "Common Folk",
+    "era": "Ancient Egypt",
+    "role": "Enemy",
+    "faction": "Villagers",
+    "difficulty": 1,
+    "hp": 8000,
+    "accent": "#9ee493",
+    "avatarCardId": 41,
+    "portraitCardId": 41,
+    "titleTag": "Common Folk",
+    "bio": "A simple villager who learned the basics of dueling.",
+    "bioLong": "One of the common folk who inhabit the villages around the royal palace.",
+    "quotes": [
+      "Er... I challenge you! I think."
+    ],
+    "signatureCards": [
+      41
+    ],
+    "deck": [
+      {
+        "id": 41,
+        "count": 1,
+        "note": "Celtic Guardian"
+      },
+      {
+        "id": 26,
+        "count": 1,
+        "note": "Battle Ox"
+      },
+      {
+        "id": 200,
+        "count": 1,
+        "note": "Petit Dragon"
+      },
+      {
+        "id": 466,
+        "count": 1,
+        "note": "Skull Red Bird"
+      },
+      {
+        "id": 3,
+        "count": 1,
+        "note": "Hitotsu-Me Giant"
+      },
+      {
+        "id": 678,
+        "count": 1,
+        "note": "Fissure"
+      },
+      {
+        "id": 346,
+        "count": 1,
+        "note": "Ookazi"
+      },
+      {
+        "id": 320,
+        "count": 1,
+        "note": "Stop Defense"
+      },
+      {
+        "id": 501,
+        "count": 1,
+        "note": "Man-Eater Bug"
+      },
+      {
+        "id": 344,
+        "count": 1,
+        "note": "Hinotama"
+      },
+      {
+        "id": 167,
+        "count": 1,
+        "note": "Ancient Jar"
+      },
+      {
+        "id": 642,
+        "count": 1,
+        "note": "Mystical Sheep"
+      },
+      {
+        "id": 541,
+        "count": 1,
+        "note": "Hane-Hane"
+      },
+      {
+        "id": 27,
+        "count": 1,
+        "note": "Beaver Warrior"
+      }
+    ],
+    "drops": [
+      41
+    ],
+    "strategy": "Basic beatdown",
+    "storyChapters": [
+      "awakening"
+    ]
+  },
+  {
+    "slug": "villager_2",
+    "name": "Villager 2",
+    "alias": "Market Merchant",
+    "era": "Ancient Egypt",
+    "role": "Enemy",
+    "faction": "Villagers",
+    "difficulty": 1,
+    "hp": 8000,
+    "accent": "#9ee493",
+    "avatarCardId": 727,
+    "portraitCardId": 727,
+    "titleTag": "Market Merchant",
+    "bio": "A market merchant who fancies spellcaster-type monsters.",
+    "bioLong": "This merchant learned to duel while traveling between cities.",
+    "quotes": [
+      "A fair trade! May the best monster win!"
+    ],
+    "signatureCards": [
+      727
+    ],
+    "deck": [
+      {
+        "id": 727,
+        "count": 1,
+        "note": "Dark Magician Girl"
+      },
+      {
+        "id": 41,
+        "count": 1,
+        "note": "Celtic Guardian"
+      },
+      {
+        "id": 2,
+        "count": 1,
+        "note": "Mystical Elf"
+      },
+      {
+        "id": 433,
+        "count": 1,
+        "note": "Ancient Elf"
+      },
+      {
+        "id": 715,
+        "count": 1,
+        "note": "Sorcerer of the Doomed"
+      },
+      {
+        "id": 470,
+        "count": 1,
+        "note": "Magical Ghost"
+      },
+      {
+        "id": 642,
+        "count": 1,
+        "note": "Mystical Sheep"
+      },
+      {
+        "id": 501,
+        "count": 1,
+        "note": "Man-Eater Bug"
+      },
+      {
+        "id": 346,
+        "count": 1,
+        "note": "Ookazi"
+      },
+      {
+        "id": 678,
+        "count": 1,
+        "note": "Fissure"
+      },
+      {
+        "id": 320,
+        "count": 1,
+        "note": "Stop Defense"
+      },
+      {
+        "id": 336,
+        "count": 1,
+        "note": "Dark Hole"
+      },
+      {
+        "id": 344,
+        "count": 1,
+        "note": "Hinotama"
+      }
+    ],
+    "drops": [
+      727
+    ],
+    "strategy": "Spellcaster spam",
+    "storyChapters": [
+      "awakening"
+    ]
+  },
+  {
+    "slug": "villager3",
+    "name": "Villager 3",
+    "alias": "Desert Scout",
+    "era": "Ancient Egypt",
+    "role": "Enemy",
+    "faction": "Villagers",
+    "difficulty": 2,
+    "hp": 8000,
+    "accent": "#9ee493",
+    "avatarCardId": 99,
+    "portraitCardId": 99,
+    "titleTag": "Desert Scout",
+    "bio": "A desert scout who uses Zombie and Warrior monsters boosted by the Wasteland field.",
+    "bioLong": "Born in the harsh desert, this scout has learned to use the environment as a weapon.",
+    "quotes": [
+      "The desert takes all who trespass. Face my wasteland warriors!"
+    ],
+    "signatureCards": [
+      99
+    ],
+    "deck": [
+      {
+        "id": 99,
+        "count": 1,
+        "note": "Pumpking the King of Ghosts"
+      },
+      {
+        "id": 83,
+        "count": 1,
+        "note": "Castle of Dark Illusions"
+      },
+      {
+        "id": 30,
+        "count": 1,
+        "note": "Zombie Warrior"
+      },
+      {
+        "id": 97,
+        "count": 1,
+        "note": "Dragon Zombie"
+      },
+      {
+        "id": 24,
+        "count": 1,
+        "note": "Skull Servant"
+      },
+      {
+        "id": 96,
+        "count": 1,
+        "note": "Armored Zombie"
+      },
+      {
+        "id": 331,
+        "count": 1,
+        "note": "Wasteland"
+      },
+      {
+        "id": 41,
+        "count": 1,
+        "note": "Celtic Guardian"
+      },
+      {
+        "id": 26,
+        "count": 1,
+        "note": "Battle Ox"
+      },
+      {
+        "id": 336,
+        "count": 1,
+        "note": "Dark Hole"
+      },
+      {
+        "id": 346,
+        "count": 1,
+        "note": "Ookazi"
+      },
+      {
+        "id": 678,
+        "count": 1,
+        "note": "Fissure"
+      },
+      {
+        "id": 320,
+        "count": 1,
+        "note": "Stop Defense"
+      },
+      {
+        "id": 501,
+        "count": 1,
+        "note": "Man-Eater Bug"
+      },
+      {
+        "id": 344,
+        "count": 1,
+        "note": "Hinotama"
+      }
+    ],
+    "drops": [
+      99
+    ],
+    "strategy": "Wasteland + Zombie boost",
+    "storyChapters": [
+      "awakening"
+    ]
+  },
+  {
+    "slug": "darknite",
+    "name": "DarkNite",
+    "alias": "Shadow of Nitemare",
+    "era": "Beyond Time",
+    "role": "Penultimate Boss",
+    "faction": "The Dark",
+    "difficulty": 6,
+    "hp": 8000,
+    "accent": "#ff2e63",
+    "avatarCardId": 374,
+    "portraitCardId": 374,
+    "titleTag": "Shadow of Nitemare",
+    "bio": "DarkNite precedes Nitemare as the penultimate boss. His deck is nearly as powerful and serves as the dark herald.",
+    "bioLong": "DarkNite is the shadow given purpose — Nitemare's advance guard. Defeating him is the final test before the ultimate battle.",
+    "quotes": [
+      "Welcome to the edge of darkness, Pharaoh. Few ever return."
+    ],
+    "signatureCards": [
+      374
+    ],
+    "deck": [
+      {
+        "id": 374,
+        "count": 1,
+        "note": "Gate Guardian"
+      },
+      {
+        "id": 22,
+        "count": 1,
+        "note": "Summoned Skull"
+      },
+      {
+        "id": 613,
+        "count": 1,
+        "note": "Twin-Headed Thunder Dragon"
+      },
+      {
+        "id": 379,
+        "count": 1,
+        "note": "La Jinn the Mystical Genie"
+      },
+      {
+        "id": 551,
+        "count": 1,
+        "note": "Dark Elf"
+      },
+      {
+        "id": 698,
+        "count": 1,
+        "note": "Change of Heart"
+      },
+      {
+        "id": 693,
+        "count": 1,
+        "note": "Monster Reborn"
+      },
+      {
+        "id": 336,
+        "count": 1,
+        "note": "Dark Hole"
+      },
+      {
+        "id": 725,
+        "count": 1,
+        "note": "Mirror Force"
+      },
+      {
+        "id": 346,
+        "count": 1,
+        "note": "Ookazi"
+      },
+      {
+        "id": 344,
+        "count": 1,
+        "note": "Hinotama"
+      },
+      {
+        "id": 320,
+        "count": 1,
+        "note": "Stop Defense"
+      },
+      {
+        "id": 303,
+        "count": 1,
+        "note": "Dark Energy"
+      }
+    ],
+    "drops": [
+      374
+    ],
+    "strategy": "Gate Guardian + Fiend support + Dark field",
+    "storyChapters": [
+      "final-duel"
+    ]
+  },
+  {
+    "slug": "nitemare",
+    "name": "Nitemare",
+    "alias": "The Forbidden One",
+    "era": "Beyond Time",
+    "role": "Final Boss",
+    "faction": "The Dark",
+    "difficulty": 6,
+    "hp": 8000,
+    "accent": "#ff2e63",
+    "avatarCardId": 21,
+    "portraitCardId": 21,
+    "titleTag": "The Forbidden One",
+    "bio": "The true final boss. Nitemare is the embodiment of darkness itself, wielding Exodia and the most devastating deck in the game.",
+    "bioLong": "Nitemare is not bound by the rules of men. He is the manifestation of the Shadow Realm given form.",
+    "quotes": [
+      "I am the darkness that existed before light. You cannot defeat what you cannot comprehend.",
+      "...Even I can fall. The light of the Pharaoh endures."
+    ],
+    "signatureCards": [
+      21
+    ],
+    "deck": [
+      {
+        "id": 21,
+        "count": 1,
+        "note": "Exodia the Forbidden One"
+      },
+      {
+        "id": 19,
+        "count": 1,
+        "note": "Right Arm of the Forbidden One"
+      },
+      {
+        "id": 20,
+        "count": 1,
+        "note": "Left Arm of the Forbidden One"
+      },
+      {
+        "id": 17,
+        "count": 1,
+        "note": "Right Leg of the Forbidden One"
+      },
+      {
+        "id": 18,
+        "count": 1,
+        "note": "Left Leg of the Forbidden One"
+      },
+      {
+        "id": 364,
+        "count": 1,
+        "note": "Black Luster Soldier"
+      },
+      {
+        "id": 374,
+        "count": 1,
+        "note": "Gate Guardian"
+      },
+      {
+        "id": 380,
+        "count": 1,
+        "note": "Blue Eyes Ultimate Dragon"
+      },
+      {
+        "id": 698,
+        "count": 1,
+        "note": "Change of Heart"
+      },
+      {
+        "id": 693,
+        "count": 1,
+        "note": "Monster Reborn"
+      },
+      {
+        "id": 680,
+        "count": 1,
+        "note": "Pot of Greed"
+      },
+      {
+        "id": 807,
+        "count": 1,
+        "note": "Graceful Charity"
+      },
+      {
+        "id": 336,
+        "count": 1,
+        "note": "Dark Hole"
+      },
+      {
+        "id": 725,
+        "count": 1,
+        "note": "Mirror Force"
+      }
+    ],
+    "drops": [
+      21
+    ],
+    "strategy": "Exodia instant win; Black Luster Ritual summon",
+    "storyChapters": [
+      "final-duel"
+    ]
+  },
+  {
+    "slug": "jono_2",
+    "name": "Jono 2nd",
+    "alias": "Warrior of Evolution",
+    "era": "Ancient Egypt",
+    "role": "Rival Rematch",
+    "faction": "Ancient Egypt",
+    "difficulty": 3,
+    "hp": 8000,
+    "accent": "#f4a259",
+    "avatarCardId": 82,
+    "portraitCardId": 82,
+    "titleTag": "Warrior of Evolution",
+    "bio": "A stronger rematch version of Jonouchi. His deck has evolved with more powerful cards and fiercer strategies.",
+    "bioLong": "Having grown from his first defeat, Jono 2nd returns with a revamped deck. His resolve has hardened and his monsters hit harder than ever before.",
+    "quotes": [
+      "I've trained hard for this rematch. Don't you dare go easy on me!"
+    ],
+    "signatureCards": [
+      82
+    ],
+    "deck": [
+      {
+        "id": 82,
+        "count": 1,
+        "note": "Red-Eyes B. Dragon"
+      },
+      {
+        "id": 15,
+        "count": 1,
+        "note": "Flame Swordsman"
+      },
+      {
+        "id": 41,
+        "count": 1,
+        "note": "Celtic Guardian"
+      },
+      {
+        "id": 466,
+        "count": 1,
+        "note": "Skull Red Bird"
+      },
+      {
+        "id": 78,
+        "count": 1,
+        "note": "Axe Raider"
+      },
+      {
+        "id": 654,
+        "count": 1,
+        "note": "Salamandra"
+      },
+      {
+        "id": 651,
+        "count": 1,
+        "note": "Kunai with Chain"
+      },
+      {
+        "id": 321,
+        "count": 1,
+        "note": "Malevolent Nuzzler"
+      },
+      {
+        "id": 346,
+        "count": 1,
+        "note": "Ookazi"
+      },
+      {
+        "id": 336,
+        "count": 1,
+        "note": "Dark Hole"
+      },
+      {
+        "id": 693,
+        "count": 1,
+        "note": "Monster Reborn"
+      }
+    ],
+    "drops": [
+      82
+    ],
+    "strategy": "Red-Eyes + Panther Warrior burn strategy",
+    "storyChapters": [
+      "awakening"
+    ]
+  },
+  {
+    "slug": "seto_3",
+    "name": "Seto 3rd",
+    "alias": "The Corrupted Pharaoh's Rival",
+    "era": "Ancient Egypt",
+    "role": "Rival Rematch",
+    "faction": "Ancient Egypt",
+    "difficulty": 5,
+    "hp": 8000,
+    "accent": "#7c3aed",
+    "avatarCardId": 380,
+    "portraitCardId": 380,
+    "titleTag": "The Corrupted Pharaoh's Rival",
+    "bio": "The final Seto encounter. His deck is at peak power with multiple Blue Eyes and devastating spell cards.",
+    "bioLong": "In his final form, Seto has fully embraced the darkness. He commands the ultimate dragon deck.",
+    "quotes": [
+      "Three Blue Eyes... You cannot win against this!",
+      "The Shadow Realm shall swallow your light whole."
+    ],
+    "signatureCards": [
+      380
+    ],
+    "deck": [
+      {
+        "id": 1,
+        "count": 3,
+        "note": "Blue Eyes White Dragon"
+      },
+      {
+        "id": 379,
+        "count": 1,
+        "note": "La Jinn the Mystical Genie"
+      },
+      {
+        "id": 3,
+        "count": 1,
+        "note": "Hitotsu-Me Giant"
+      },
+      {
+        "id": 399,
+        "count": 1,
+        "note": "Swordsman from a Foreign Land"
+      },
+      {
+        "id": 336,
+        "count": 1,
+        "note": "Dark Hole"
+      },
+      {
+        "id": 693,
+        "count": 1,
+        "note": "Monster Reborn"
+      },
+      {
+        "id": 665,
+        "count": 1,
+        "note": "Polymerization"
+      },
+      {
+        "id": 725,
+        "count": 1,
+        "note": "Mirror Force"
+      },
+      {
+        "id": 666,
+        "count": 1,
+        "note": "Trap Hole"
+      },
+      {
+        "id": 655,
+        "count": 1,
+        "note": "De-Spell"
+      }
+    ],
+    "drops": [
+      380
+    ],
+    "strategy": "3x BEWD into Blue Eyes Ultimate Dragon",
+    "storyChapters": [
+      "final-duel"
+    ]
+  },
+  {
+    "slug": "yami_marik",
+    "name": "Yami Marik",
+    "alias": "Keeper of the Millennium Rod",
+    "era": "Modern",
+    "role": "Free Duel Rival",
+    "faction": "Modern Duelists",
+    "difficulty": 5,
+    "hp": 8000,
+    "accent": "#dc2626",
+    "avatarCardId": 698,
+    "portraitCardId": 698,
+    "titleTag": "Keeper of the Millennium Rod",
+    "bio": "Marik Ishtar wields the Millennium Rod and uses a ruthless control deck.",
+    "bioLong": "Marik is the keeper of the Millennium Rod. Twisted by the Shadow Realm's influence, he seeks the Pharaoh's power.",
+    "quotes": [
+      "I will show you true suffering. The Shadow Games are not a game — they are torture.",
+      "Incredible... You actually survived my Shadow Game."
+    ],
+    "signatureCards": [
+      698
+    ],
+    "deck": [
+      {
+        "id": 698,
+        "count": 1,
+        "note": "Change of Heart"
+      },
+      {
+        "id": 693,
+        "count": 1,
+        "note": "Monster Reborn"
+      },
+      {
+        "id": 336,
+        "count": 1,
+        "note": "Dark Hole"
+      },
+      {
+        "id": 725,
+        "count": 1,
+        "note": "Mirror Force"
+      },
+      {
+        "id": 666,
+        "count": 1,
+        "note": "Trap Hole"
+      },
+      {
+        "id": 680,
+        "count": 1,
+        "note": "Pot of Greed"
+      },
+      {
+        "id": 807,
+        "count": 1,
+        "note": "Graceful Charity"
+      }
+    ],
+    "drops": [
+      698
+    ],
+    "strategy": "Ra summon through tribute chain + Makyura trap spam",
+    "storyChapters": [
+      "free-duel"
+    ]
   }
 ]
