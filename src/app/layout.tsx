@@ -67,7 +67,6 @@ export default function RootLayout({ children }: { children: ReactNode }) {
                     ["/download", "Download Game"],
                     ["/patch-notes", "Patch Note"],
                     ["/announcements", "Announcement"],
-                    ["/assets", "Asset Manager"],
                     ["/gallery", "Epic Gallery"],
                   ].map(([href, label]) => (
                     <li key={href}>
