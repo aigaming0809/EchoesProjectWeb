@@ -137,14 +137,14 @@ export function getScan(): ScanResult {
   return globalForScan.__fmScan!;
 }
 
-/** Paksa scan ulang sekarang juga (dipakai tombol refresh di /assets). */
+/** Paksa scan ulang folder gambar sekarang juga. */
 export function forceRescan(): ScanResult {
   globalForScan.__fmScan = scan();
   globalForScan.__fmScanAt = Date.now();
   return globalForScan.__fmScan;
 }
 
-/** Snapshot saat modul dimuat (dipakai halaman /assets untuk statistik). */
+/** Snapshot saat modul dimuat. */
 export const scanResult: ScanResult = getScan();
 
 /**
