@@ -14,8 +14,7 @@ const LINKS = [
   { href: "/download", label: "DOWNLOAD", code: "06" },
   { href: "/patch-notes", label: "PATCH", code: "07" },
   { href: "/announcements", label: "NEWS", code: "08" },
-  { href: "/assets", label: "ASSETS", code: "09" },
-  { href: "/gallery", label: "GALLERY", code: "10" },
+  { href: "/gallery", label: "GALLERY", code: "09" },
 ];
 
 export default function SiteNav() {
